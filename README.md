@@ -1,2 +1,2 @@
 # ODKsample1
-english/somali ODK looping sample1
+english/somali based ODK looping sample1 in XML format
