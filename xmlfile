@@ -1,0 +1,4213 @@
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:jr="http://openrosa.org/javarosa">
+  <h:head>
+    <h:title>Final Draft SOM</h:title>
+    <model>
+      <instance>
+        <data id="build_Final-Draft-SOM_1505219143">
+          <meta>
+            <instanceID/>
+          </meta>
+          <start_time/>
+          <interview_date/>
+          <phone_ID/>
+          <Device_ID/>
+          <Intro/>
+          <Consent/>
+          <respName/>
+          <audioRecording/>
+          <respPic/>
+          <chilRship/>
+          <otherRship/>
+          <Cluster_ID/>
+          <Questionnaire_ID/>
+          <interview_date_ID/>
+          <GPS_point/>
+          <global1>
+            <M_L2/>
+            <M_L3/>
+            <M_L4/>
+            <M_L5/>
+            <M_L6/>
+            <M_L7/>
+            <M_L8/>
+            <M_L9/>
+            <M_L10/>
+          </global1>
+          <M_1>
+            <M_1.1/>
+            <M_1.2/>
+            <M_1.3/>
+            <M_1.3.1/>
+            <M_1.4/>
+            <M_1.4.1/>
+            <M_1.5/>
+            <M_1.6/>
+            <M_1.7/>
+            <M_1.7.1/>
+            <M_1.7.1.1/>
+            <M_1.7.2/>
+            <M_1.8/>
+            <M_1.8.1/>
+            <M_1.9/>
+            <M_1.9.1/>
+          </M_1>
+          <M_2.0>
+            <M_2.10/>
+          </M_2.0>
+          <M_2.1 jr:template="">
+            <M_2.10.0.1/>
+            <M_2.10.0.2/>
+            <M_2.10.0.3/>
+          </M_2.1>
+          <M_2.2>
+            <M_2.11/>
+            <M_2.12/>
+            <M_2.12.1/>
+            <M_2.12.2/>
+            <M_2.12.1.1/>
+            <M_2.12.2.1/>
+            <M_2.13/>
+            <M_2.13.0.2/>
+            <M_2.14/>
+            <M_2.14.0.2/>
+            <M_2.15/>
+            <M_2.15.1/>
+            <M_2.15.2/>
+            <M_2.16/>
+            <M_2.16.1/>
+            <M_2.17/>
+            <M_2.17.1/>
+            <M_2.17.1.1/>
+          </M_2.2>
+          <M_3>
+            <M_3.18/>
+            <M_3.19/>
+            <M_3.20/>
+            <M_3.20.1/>
+            <M_3.20.1.1/>
+          </M_3>
+          <M_4>
+            <M_4.21/>
+            <M_4.1 jr:template="">
+              <M_4.1.1/>
+              <M_4.1.2/>
+              <M_4.1.3/>
+              <M_4.1.4/>
+            </M_4.1>
+            <M_4.22/>
+            <M_4.23/>
+            <Vaccine_Card_Photo/>
+            <M_4.24>
+              <M_4.24.1/>
+              <M_4.24.2/>
+              <M_4.24.3/>
+              <M_4.24.4/>
+              <M_4.24.5/>
+              <M_4.24.6/>
+              <M_4.24.7/>
+              <M_4.24.8/>
+              <M_4.24.9/>
+            </M_4.24>
+            <M_4.25/>
+            <M_4.26/>
+            <M_4.27/>
+            <M_4.28/>
+            <M_4.28.1/>
+            <M_4.28.2/>
+            <M_4.29/>
+            <M_4.29.1/>
+            <M_4.30/>
+            <M_4.31/>
+            <M_4.31.1/>
+            <M_4.31.1.1/>
+          </M_4>
+          <M_5>
+            <M_5.32/>
+            <M_5.32.0.1/>
+            <M_5.32.0.2/>
+            <M_5.32.1/>
+            <M_5.32.1.1/>
+            <M_5.32.1.2/>
+            <M_5.33/>
+            <M_5.33.0.1/>
+            <M_5.33.1/>
+            <M_5.33.1.1/>
+            <M_5.34/>
+            <M_5.34.1/>
+            <M_5.34.1.1/>
+            <M_5.34.1.2/>
+            <M_5.35/>
+            <M_5.35.0.1/>
+            <M_5.36/>
+            <M_5.36.0.1/>
+            <M_5.37/>
+            <M_5.37.0.1/>
+            <M_5.38/>
+            <M_5.38.0.1/>
+            <M_5.38.1/>
+            <M_5.39/>
+            <M_5.39.0.1/>
+            <M_5.40/>
+            <M_5.40.0.1/>
+            <M_5.41/>
+            <M_5.41.0.1/>
+          </M_5>
+          <M_6>
+            <M_6.42/>
+            <M_6.42.1/>
+            <M_6.42.1.1/>
+            <M_6.43/>
+            <M_6.43.0.1/>
+          </M_6>
+          <M_7>
+            <M_7.44/>
+            <M_7.44.1/>
+            <M_7.45/>
+            <M_7.45.1/>
+            <M_7.45.1.1/>
+            <M_7.46/>
+            <M_7.46.1/>
+            <M_7.46.1.1/>
+          </M_7>
+          <M_8>
+            <M_8.47/>
+            <M_8.47.1/>
+            <M_8.47.2/>
+            <M_8.47.2.1/>
+            <M_8.48/>
+            <M_8.48.0.1/>
+          </M_8>
+          <Conclusion/>
+          <Conclusion2/>
+          <Endtime/>
+        </data>
+      </instance>
+      <itext>
+        <translation lang="English">
+          <text id="/data/Intro:label">
+            <value>Respondent to this survey should be the mothers of the child who is between 12 and 23 months old (children who have turned one year old, but not yet turned two years old).; however, if there are other people who take care of the child AND are knowledgeable about its vaccination history, then that can work. They must also be permanent members of the selected household.  Find out if the household is eligible for survey. Proceed survey if yes, or to next household if not. (Ask mother or caretaker to bring routine EPI cards or any health cards for the children aged 12-23 months or for the mother)  Hello.  My name is _____________, and I am doing this survey for the CORE Group and the Ministry of Health.  We are conducting a survey and we would like your participation in order to learn more about the polio and other vaccination status of your children. This interview should last no more than 45 minutes. The information that you volunteer will help CORE Group and the Ministry of Health to improve vaccination services. It will be completely confidential and your information will not be shared with anyone else. Please feel free to ask any questions at any time.</value>
+          </text>
+          <text id="/data/Intro:hint">
+            <value>Introduction</value>
+          </text>
+          <text id="/data/Consent:label">
+            <value>Do you agree to be interviewed ?</value>
+          </text>
+          <text id="/data/Consent:hint">
+            <value>(ma ogoshahay in aan wareysi kulayesho)</value>
+          </text>
+          <text id="/data/Consent:requiredMsg">
+            <value>yes-no</value>
+          </text>
+          <text id="/data/Consent:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/Consent:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/respName:label">
+            <value>Name of respondent ? </value>
+          </text>
+          <text id="/data/respName:hint">
+            <value>(Indicate name in bold in the order 1st,2nd and/or middle name)</value>
+          </text>
+          <text id="/data/audioRecording:label">
+            <value>Record audio interview and upload</value>
+          </text>
+          <text id="/data/audioRecording:hint">
+            <value>AudioRecording</value>
+          </text>
+          <text id="/data/respPic:label">
+            <value>Take a photo of the respondent after their consent?</value>
+          </text>
+          <text id="/data/respPic:hint">
+            <value>Respondent picture</value>
+          </text>
+          <text id="/data/chilRship:label">
+            <value>What is your relationship to the child (selected 12-23 months)?</value>
+          </text>
+          <text id="/data/chilRship:hint">
+            <value>relationship</value>
+          </text>
+          <text id="/data/chilRship:option0">
+            <value>Mother</value>
+          </text>
+          <text id="/data/chilRship:option1">
+            <value>Aunt</value>
+          </text>
+          <text id="/data/chilRship:option2">
+            <value>Grandmother</value>
+          </text>
+          <text id="/data/chilRship:option3">
+            <value>Other</value>
+          </text>
+          <text id="/data/otherRship:label">
+            <value>Please specify other relationship?</value>
+          </text>
+          <text id="/data/otherRship:hint">
+            <value>otherRship</value>
+          </text>
+          <text id="/data/Cluster_ID:label">
+            <value>Cluster number</value>
+          </text>
+          <text id="/data/Questionnaire_ID:label">
+            <value>Questionnaire number</value>
+          </text>
+          <text id="/data/interview_date_ID:label">
+            <value>Interview date</value>
+          </text>
+          <text id="/data/interview_date_ID:hint">
+            <value>dd-mm-yyyy</value>
+          </text>
+          <text id="/data/GPS_point:label">
+            <value>GPS coordinates</value>
+          </text>
+          <text id="/data/global1:label">
+            <value>M_L</value>
+          </text>
+          <text id="/data/global1/M_L2:label">
+            <value>Please state your country ?</value>
+          </text>
+          <text id="/data/global1/M_L2:hint">
+            <value>Country</value>
+          </text>
+          <text id="/data/global1/M_L2:option0">
+            <value>Kenya</value>
+          </text>
+          <text id="/data/global1/M_L2:option1">
+            <value>Somalia</value>
+          </text>
+          <text id="/data/global1/M_L3:label">
+            <value>Please state your county or region ?</value>
+          </text>
+          <text id="/data/global1/M_L3:hint">
+            <value>County or region</value>
+          </text>
+          <text id="/data/global1/M_L3:option0">
+            <value>Marsabit_County</value>
+          </text>
+          <text id="/data/global1/M_L3:option1">
+            <value>Turkana_County</value>
+          </text>
+          <text id="/data/global1/M_L3:option2">
+            <value>Garissa_County</value>
+          </text>
+          <text id="/data/global1/M_L3:option3">
+            <value>Mandera_County</value>
+          </text>
+          <text id="/data/global1/M_L3:option4">
+            <value>Wajir_County</value>
+          </text>
+          <text id="/data/global1/M_L3:option5">
+            <value>Gedo_Region</value>
+          </text>
+          <text id="/data/global1/M_L3:option6">
+            <value>Lower_Juba_Region</value>
+          </text>
+          <text id="/data/global1/M_L3:option7">
+            <value>Nairobi_County</value>
+          </text>
+          <text id="/data/global1/M_L4:label">
+            <value>Please state your sub county or district ?</value>
+          </text>
+          <text id="/data/global1/M_L4:hint">
+            <value>sub county</value>
+          </text>
+          <text id="/data/global1/M_L4:option0">
+            <value>North_Horr</value>
+          </text>
+          <text id="/data/global1/M_L4:option1">
+            <value>Moyale</value>
+          </text>
+          <text id="/data/global1/M_L4:option2">
+            <value>Turkana_West_Sub_County_Kakuma</value>
+          </text>
+          <text id="/data/global1/M_L4:option3">
+            <value>Loima_Sub_County_Lorugum</value>
+          </text>
+          <text id="/data/global1/M_L4:option4">
+            <value>Kibish_Sub_County</value>
+          </text>
+          <text id="/data/global1/M_L4:option5">
+            <value>Fafi_Sub_County</value>
+          </text>
+          <text id="/data/global1/M_L4:option6">
+            <value>Hulugho_Sub_County</value>
+          </text>
+          <text id="/data/global1/M_L4:option7">
+            <value>Dadaab_Sub_County</value>
+          </text>
+          <text id="/data/global1/M_L4:option8">
+            <value>Mandera_West</value>
+          </text>
+          <text id="/data/global1/M_L4:option9">
+            <value>Mandera_South</value>
+          </text>
+          <text id="/data/global1/M_L4:option10">
+            <value>Banisa</value>
+          </text>
+          <text id="/data/global1/M_L4:option11">
+            <value>Mandera_North</value>
+          </text>
+          <text id="/data/global1/M_L4:option12">
+            <value>Mandera_East_and_Lafey</value>
+          </text>
+          <text id="/data/global1/M_L4:option13">
+            <value>Wajir_North_Sub_County</value>
+          </text>
+          <text id="/data/global1/M_L4:option14">
+            <value>Wajir_East_Sub_County</value>
+          </text>
+          <text id="/data/global1/M_L4:option15">
+            <value>Wajir_South_Sub_County</value>
+          </text>
+          <text id="/data/global1/M_L4:option16">
+            <value>Dolow_District</value>
+          </text>
+          <text id="/data/global1/M_L4:option17">
+            <value>Belet_Hawa_District</value>
+          </text>
+          <text id="/data/global1/M_L4:option18">
+            <value>Elwak_District</value>
+          </text>
+          <text id="/data/global1/M_L4:option19">
+            <value>Gerille_Sub_District</value>
+          </text>
+          <text id="/data/global1/M_L4:option20">
+            <value>Afmadow_Dhobley_Sub_District</value>
+          </text>
+          <text id="/data/global1/M_L4:option21">
+            <value>Badhadhe_District</value>
+          </text>
+          <text id="/data/global1/M_L4:option22">
+            <value>Kamkunji</value>
+          </text>
+          <text id="/data/global1/M_L5:label">
+            <value>What is your ward ?</value>
+          </text>
+          <text id="/data/global1/M_L5:hint">
+            <value>Ward</value>
+          </text>
+          <text id="/data/global1/M_L6:label">
+            <value>What is your village ?</value>
+          </text>
+          <text id="/data/global1/M_L6:hint">
+            <value>Village</value>
+          </text>
+          <text id="/data/global1/M_L7:label">
+            <value>Name of health facility ?</value>
+          </text>
+          <text id="/data/global1/M_L7:hint">
+            <value></value>
+          </text>
+          <text id="/data/global1/M_L8:label">
+            <value>What is your PVO/NGO ?</value>
+          </text>
+          <text id="/data/global1/M_L8:hint">
+            <value></value>
+          </text>
+          <text id="/data/global1/M_L9:label">
+            <value>Interviewer’s name</value>
+          </text>
+          <text id="/data/global1/M_L9:hint">
+            <value></value>
+          </text>
+          <text id="/data/global1/M_L10:label">
+            <value>Supervisor’s name</value>
+          </text>
+          <text id="/data/global1/M_L10:hint">
+            <value></value>
+          </text>
+          <text id="/data/M_1:label">
+            <value>MODULE 1:SOCIAL_DEMOGRAPHIC_PROFILES</value>
+          </text>
+          <text id="/data/M_1/M_1.1:label">
+            <value>Residence</value>
+          </text>
+          <text id="/data/M_1/M_1.1:option0">
+            <value>Rural</value>
+          </text>
+          <text id="/data/M_1/M_1.1:option1">
+            <value>Urban</value>
+          </text>
+          <text id="/data/M_1/M_1.2:label">
+            <value>What is the gender of the respondent ?</value>
+          </text>
+          <text id="/data/M_1/M_1.2:hint">
+            <value></value>
+          </text>
+          <text id="/data/M_1/M_1.2:option0">
+            <value>Male</value>
+          </text>
+          <text id="/data/M_1/M_1.2:option1">
+            <value>Female</value>
+          </text>
+          <text id="/data/M_1/M_1.3:label">
+            <value>Have you ever attended school ?</value>
+          </text>
+          <text id="/data/M_1/M_1.3:hint">
+            <value>(Weligaa skool magashay?)</value>
+          </text>
+          <text id="/data/M_1/M_1.3:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/M_1/M_1.3:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/M_1/M_1.3.1:label">
+            <value>What is the highest level of school you completed?</value>
+          </text>
+          <text id="/data/M_1/M_1.3.1:hint">
+            <value>(Heerka ugu sarayso e waxbarasho aad dhamaysatay)</value>
+          </text>
+          <text id="/data/M_1/M_1.3.1:option0">
+            <value>Primary incomplete </value>
+          </text>
+          <text id="/data/M_1/M_1.3.1:option1">
+            <value>Primary complete</value>
+          </text>
+          <text id="/data/M_1/M_1.3.1:option2">
+            <value>Secondary +</value>
+          </text>
+          <text id="/data/M_1/M_1.4:label">
+            <value>What languages do you know?</value>
+          </text>
+          <text id="/data/M_1/M_1.4:hint">
+            <value>(Luuqadehe taqaanaa)</value>
+          </text>
+          <text id="/data/M_1/M_1.4:option0">
+            <value>Kiswahili</value>
+          </text>
+          <text id="/data/M_1/M_1.4:option1">
+            <value>English</value>
+          </text>
+          <text id="/data/M_1/M_1.4:option2">
+            <value>Other</value>
+          </text>
+          <text id="/data/M_1/M_1.4.1:label">
+            <value>Other language,please specify</value>
+          </text>
+          <text id="/data/M_1/M_1.4.1:hint">
+            <value>Other language</value>
+          </text>
+          <text id="/data/M_1/M_1.5:label">
+            <value>How old are you?</value>
+          </text>
+          <text id="/data/M_1/M_1.5:hint">
+            <value>(Meqaa jirtaa)</value>
+          </text>
+          <text id="/data/M_1/M_1.6:label">
+            <value>How long in years have you been living here ?</value>
+          </text>
+          <text id="/data/M_1/M_1.6:hint">
+            <value>(Meqaa Sana ayad halkan ku nolayd)</value>
+          </text>
+          <text id="/data/M_1/M_1.7:label">
+            <value>Do you work inside or outside the home, apart from household and family farm, that earn you cash or kinds ?</value>
+          </text>
+          <text id="/data/M_1/M_1.7:hint">
+            <value>(Ma guriga dhexdiisa ayad ka shaqaysaa mise banaanka, shaqa aan ahayn mida guriga, beeraha o dhaqala lacag ama dheef kale aad ka heshid)</value>
+          </text>
+          <text id="/data/M_1/M_1.7:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/M_1/M_1.7:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/M_1/M_1.7.1:label">
+            <value>What work do you do ?</value>
+          </text>
+          <text id="/data/M_1/M_1.7.1:hint">
+            <value>(Shaqa nocmaad qabataa)</value>
+          </text>
+          <text id="/data/M_1/M_1.7.1:option0">
+            <value>Agriculture Farming</value>
+          </text>
+          <text id="/data/M_1/M_1.7.1:option1">
+            <value>Livestock</value>
+          </text>
+          <text id="/data/M_1/M_1.7.1:option2">
+            <value>Factory</value>
+          </text>
+          <text id="/data/M_1/M_1.7.1:option3">
+            <value>Business</value>
+          </text>
+          <text id="/data/M_1/M_1.7.1:option4">
+            <value>Office (GoK/NGO/Company)</value>
+          </text>
+          <text id="/data/M_1/M_1.7.1:option5">
+            <value>Others,specify ?</value>
+          </text>
+          <text id="/data/M_1/M_1.7.1.1:label">
+            <value>Others,please specify ?</value>
+          </text>
+          <text id="/data/M_1/M_1.7.1.1:hint">
+            <value>Other work</value>
+          </text>
+          <text id="/data/M_1/M_1.7.2:label">
+            <value>What is the main means of livelihood of your family?</value>
+          </text>
+          <text id="/data/M_1/M_1.7.2:hint">
+            <value>(Nolol maalmedka qoyska inta badan xaguu ku tiirsanyahay)</value>
+          </text>
+          <text id="/data/M_1/M_1.7.2:option0">
+            <value>Livestock (fixed place)</value>
+          </text>
+          <text id="/data/M_1/M_1.7.2:option1">
+            <value>Livestock (nomad/mobile) </value>
+          </text>
+          <text id="/data/M_1/M_1.7.2:option2">
+            <value>Farming</value>
+          </text>
+          <text id="/data/M_1/M_1.7.2:option3">
+            <value>Shopkeeper/vendor</value>
+          </text>
+          <text id="/data/M_1/M_1.8:label">
+            <value>Who usually takes care of your children when you are not at home?</value>
+          </text>
+          <text id="/data/M_1/M_1.8:hint">
+            <value>(Marka aad guriga joogin ya ciyaalka ku daryeela inta badan)</value>
+          </text>
+          <text id="/data/M_1/M_1.8:option0">
+            <value>Respondent’s mother</value>
+          </text>
+          <text id="/data/M_1/M_1.8:option1">
+            <value>Respondent’s mother-in-law</value>
+          </text>
+          <text id="/data/M_1/M_1.8:option2">
+            <value>Husband/partner</value>
+          </text>
+          <text id="/data/M_1/M_1.8:option3">
+            <value>Older children</value>
+          </text>
+          <text id="/data/M_1/M_1.8:option4">
+            <value>Neighbors/friends</value>
+          </text>
+          <text id="/data/M_1/M_1.8:option5">
+            <value>Other(Specify)</value>
+          </text>
+          <text id="/data/M_1/M_1.8.1:label">
+            <value>Others,please specify</value>
+          </text>
+          <text id="/data/M_1/M_1.8.1:hint">
+            <value>Other</value>
+          </text>
+          <text id="/data/M_1/M_1.9:label">
+            <value>What is your religion ?</value>
+          </text>
+          <text id="/data/M_1/M_1.9:hint">
+            <value>(Diintaada waa tee?)</value>
+          </text>
+          <text id="/data/M_1/M_1.9:option0">
+            <value>Christian</value>
+          </text>
+          <text id="/data/M_1/M_1.9:option1">
+            <value>Islam</value>
+          </text>
+          <text id="/data/M_1/M_1.9:option2">
+            <value>Hindu</value>
+          </text>
+          <text id="/data/M_1/M_1.9:option3">
+            <value>Traditional</value>
+          </text>
+          <text id="/data/M_1/M_1.9:option4">
+            <value>Other (Specify) </value>
+          </text>
+          <text id="/data/M_1/M_1.9.1:label">
+            <value>Other,specify?</value>
+          </text>
+          <text id="/data/M_1/M_1.9.1:hint">
+            <value>Other</value>
+          </text>
+          <text id="/data/M_2.0:label">
+            <value>MODULE 2.0: SIA COVERAGE</value>
+          </text>
+          <text id="/data/M_2.0/M_2.10:label">
+            <value>How many children under 5 years of age live in this household()write completed years)?</value>
+          </text>
+          <text id="/data/M_2.0/M_2.10:hint">
+            <value>(Meeqaa caruur shan jir ka yar aya qoyskan ku nool)</value>
+          </text>
+          <text id="/data/M_2.1:label">
+            <value>MODULE 2.1: SIA COVERAGE</value>
+          </text>
+          <text id="/data/M_2.1/M_2.10.0.1:label">
+            <value>What is the name of the child ?</value>
+          </text>
+          <text id="/data/M_2.1/M_2.10.0.1:hint">
+            <value>Name: If more than one under 5 children live in the household, then select one randomly and write the name below.</value>
+          </text>
+          <text id="/data/M_2.1/M_2.10.0.2:label">
+            <value>What is the age of the child ?</value>
+          </text>
+          <text id="/data/M_2.1/M_2.10.0.2:hint">
+            <value>Age</value>
+          </text>
+          <text id="/data/M_2.1/M_2.10.0.3:label">
+            <value>What is the gender of the child ?</value>
+          </text>
+          <text id="/data/M_2.1/M_2.10.0.3:hint">
+            <value>Gender</value>
+          </text>
+          <text id="/data/M_2.2:label">
+            <value>MODULE 2.2: SIA COVERAGE</value>
+          </text>
+          <text id="/data/M_2.2/M_2.11:label">
+            <value>Has (NAME OF CHILD) ever received polio vaccination, that is, drops in the mouth, in a vaccination campaign?</value>
+          </text>
+          <text id="/data/M_2.2/M_2.11:hint">
+            <value>(Miyuu (magaca cunuga) waligis qaatay talaalka cudurka dabeesha, afkushubka, waqtiga ololaha talaalka)</value>
+          </text>
+          <text id="/data/M_2.2/M_2.11:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/M_2.2/M_2.11:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/M_2.2/M_2.11:option2">
+            <value>Don't know</value>
+          </text>
+          <text id="/data/M_2.2/M_2.12:label">
+            <value>What was the date of the last vaccination campaign?</value>
+          </text>
+          <text id="/data/M_2.2/M_2.12:hint">
+            <value>dd/mm/yyyy - (goormay ahayd ololihi talaal e ugu dambeeyey)</value>
+          </text>
+          <text id="/data/M_2.2/M_2.12:constraintMsg">
+            <value>Please rewrite the date in the appropriae format dd/mm/yyyy</value>
+          </text>
+          <text id="/data/M_2.2/M_2.12.1:label">
+            <value>Did (NAME OF CHILD) receive polio vaccination, that is, drops in the mouth, during the recent/last vaccination campaign between August 1 and 5?</value>
+          </text>
+          <text id="/data/M_2.2/M_2.12.1:hint">
+            <value>(Miyuu(magaca cunuga) qaatay talaalka cudurka dabeesha ee afkushubka, waqtigi ololihi ugu dambeeyey ee kowda ila shanta bisha sideedaad)</value>
+          </text>
+          <text id="/data/M_2.2/M_2.12.1:option0">
+            <value>Yes </value>
+          </text>
+          <text id="/data/M_2.2/M_2.12.1:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/M_2.2/M_2.12.1:option2">
+            <value>Dont know</value>
+          </text>
+          <text id="/data/M_2.2/M_2.12.2:label">
+            <value>Does (NAME OF CHILD) have the finger mark?</value>
+          </text>
+          <text id="/data/M_2.2/M_2.12.2:hint">
+            <value>(Miyuu(magaca cunuga) calaamad ku leyahay farta) </value>
+          </text>
+          <text id="/data/M_2.2/M_2.12.2:option0">
+            <value>Yes </value>
+          </text>
+          <text id="/data/M_2.2/M_2.12.2:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/M_2.2/M_2.12.1.1:label">
+            <value>Did (NAME OF CHILD) receive polio vaccination, that is, drops in the mouth, during the recent/last vaccination campaign between August 1 and 5?</value>
+          </text>
+          <text id="/data/M_2.2/M_2.12.1.1:option0">
+            <value>Yes </value>
+          </text>
+          <text id="/data/M_2.2/M_2.12.1.1:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/M_2.2/M_2.12.1.1:option2">
+            <value>Dont know</value>
+          </text>
+          <text id="/data/M_2.2/M_2.12.2.1:label">
+            <value>Does (NAME OF CHILD) have the finger mark?</value>
+          </text>
+          <text id="/data/M_2.2/M_2.12.2.1:option0">
+            <value>Yes </value>
+          </text>
+          <text id="/data/M_2.2/M_2.12.2.1:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/M_2.2/M_2.13:label">
+            <value>Please tell me all of the reasons why (NAME OF CHILD) did not get polio vaccination in recent round between August 1 and 5.</value>
+          </text>
+          <text id="/data/M_2.2/M_2.13:hint">
+            <value>(Fadlan ii sheeg sababta (magaca cunuga) uusan u helin talaalka cudurka dabesha marki hada u dambaysay ee kowda ila shanta bisha sideedaad)</value>
+          </text>
+          <text id="/data/M_2.2/M_2.13:option0">
+            <value>Team did not come</value>
+          </text>
+          <text id="/data/M_2.2/M_2.13:option1">
+            <value>Child not at home</value>
+          </text>
+          <text id="/data/M_2.2/M_2.13:option2">
+            <value>Newborn child</value>
+          </text>
+          <text id="/data/M_2.2/M_2.13:option3">
+            <value>Child sick or sleeping</value>
+          </text>
+          <text id="/data/M_2.2/M_2.13:option4">
+            <value>Caretaker refused polio vaccination</value>
+          </text>
+          <text id="/data/M_2.2/M_2.13:option5">
+            <value>Vaccine not safe</value>
+          </text>
+          <text id="/data/M_2.2/M_2.13:option6">
+            <value>Too many rounds</value>
+          </text>
+          <text id="/data/M_2.2/M_2.13:option7">
+            <value>Did not know about the campaign </value>
+          </text>
+          <text id="/data/M_2.2/M_2.13:option8">
+            <value>Did not know where get it </value>
+          </text>
+          <text id="/data/M_2.2/M_2.13:option9">
+            <value>Others (Specify)</value>
+          </text>
+          <text id="/data/M_2.2/M_2.13.0.2:label">
+            <value>Other(specify)</value>
+          </text>
+          <text id="/data/M_2.2/M_2.13.0.2:hint">
+            <value>Other</value>
+          </text>
+          <text id="/data/M_2.2/M_2.14:label">
+            <value>Do you know how many times total in (NAME OF CHILD)’s life was the polio vaccine received during Polio Immunization campaigns?</value>
+          </text>
+          <text id="/data/M_2.2/M_2.14:hint">
+            <value>(Noolashiisa guud ahan meqaa jeer ayu (magaca cunuga) talaalka cudurka dabeesha qaatay)</value>
+          </text>
+          <text id="/data/M_2.2/M_2.14:option0">
+            <value>I know</value>
+          </text>
+          <text id="/data/M_2.2/M_2.14:option1">
+            <value>Dont know</value>
+          </text>
+          <text id="/data/M_2.2/M_2.14.0.2:label">
+            <value>How many times ?</value>
+          </text>
+          <text id="/data/M_2.2/M_2.14.0.2:hint">
+            <value>frequency</value>
+          </text>
+          <text id="/data/M_2.2/M_2.15:label">
+            <value>Was your family visited by vaccinators during the most recent polio round between August 1 and 5?</value>
+          </text>
+          <text id="/data/M_2.2/M_2.15:hint">
+            <value>(Qoyskaaga ma lasoo booqday xiligi ugu damabaysay ee ololaha cudurka dabeesha ee kowda ila shanta bisha sideedaad)</value>
+          </text>
+          <text id="/data/M_2.2/M_2.15:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/M_2.2/M_2.15:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/M_2.2/M_2.15:option2">
+            <value>Dont know/Dont Remember</value>
+          </text>
+          <text id="/data/M_2.2/M_2.15.1:label">
+            <value>Was the house marked for recent round of Polio?</value>
+          </text>
+          <text id="/data/M_2.2/M_2.15.1:hint">
+            <value>(Guriga calaamad ma lagu dhigay xiligi u damabysay ee talaalka cudurka dabeesha)</value>
+          </text>
+          <text id="/data/M_2.2/M_2.15.1:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/M_2.2/M_2.15.1:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/M_2.2/M_2.15.2:label">
+            <value>Take a photo of the image if its visible and clear</value>
+          </text>
+          <text id="/data/M_2.2/M_2.15.2:hint">
+            <value>Polio vaccine mark</value>
+          </text>
+          <text id="/data/M_2.2/M_2.16:label">
+            <value>Where did (NAME OF CHILD) get the polio drops during the recent/last campaign between August 1 and 5? </value>
+          </text>
+          <text id="/data/M_2.2/M_2.16:hint">
+            <value>(Xaguu(magaca cunuga) ka qaatay afkushubki udambeeyey ee kowda ila shanta bishi sideedaad)</value>
+          </text>
+          <text id="/data/M_2.2/M_2.16:option0">
+            <value>At the house</value>
+          </text>
+          <text id="/data/M_2.2/M_2.16:option1">
+            <value>Outside the house at your gate (compound)</value>
+          </text>
+          <text id="/data/M_2.2/M_2.16:option2">
+            <value>At Market place/streets</value>
+          </text>
+          <text id="/data/M_2.2/M_2.16:option3">
+            <value>Bus stop</value>
+          </text>
+          <text id="/data/M_2.2/M_2.16:option4">
+            <value>School</value>
+          </text>
+          <text id="/data/M_2.2/M_2.16:option5">
+            <value>Mosques/church</value>
+          </text>
+          <text id="/data/M_2.2/M_2.16:option6">
+            <value>Border crossing point</value>
+          </text>
+          <text id="/data/M_2.2/M_2.16:option7">
+            <value>Other (SPECIFY)</value>
+          </text>
+          <text id="/data/M_2.2/M_2.16.1:label">
+            <value>Other(specify)</value>
+          </text>
+          <text id="/data/M_2.2/M_2.16.1:hint">
+            <value>Other</value>
+          </text>
+          <text id="/data/M_2.2/M_2.17:label">
+            <value>Did you know that there was a polio campaign between August 1 and 5?</value>
+          </text>
+          <text id="/data/M_2.2/M_2.17:hint">
+            <value>(Ma ogtahay in uu jiray ololo talaalka cudurka dabeesha kowda ila shanta bisha sideedaad)</value>
+          </text>
+          <text id="/data/M_2.2/M_2.17:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/M_2.2/M_2.17:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/M_2.2/M_2.17.1:label">
+            <value>How did you get to know about the most recent polio round between August 1 and 5?  </value>
+          </text>
+          <text id="/data/M_2.2/M_2.17.1:hint">
+            <value>(Sideed ku ogaatay ololihi u dambeeyey ee talaalka cudurka dabeesha ee kowda ila shanta bishi sideedaad)</value>
+          </text>
+          <text id="/data/M_2.2/M_2.17.1:option0">
+            <value>Radio</value>
+          </text>
+          <text id="/data/M_2.2/M_2.17.1:option1">
+            <value>Television</value>
+          </text>
+          <text id="/data/M_2.2/M_2.17.1:option2">
+            <value>Family</value>
+          </text>
+          <text id="/data/M_2.2/M_2.17.1:option3">
+            <value>Friend/Neighbour</value>
+          </text>
+          <text id="/data/M_2.2/M_2.17.1:option4">
+            <value>Community Health Volunteer </value>
+          </text>
+          <text id="/data/M_2.2/M_2.17.1:option5">
+            <value>Printed materials (Poster/Banners/Newspapers)</value>
+          </text>
+          <text id="/data/M_2.2/M_2.17.1:option6">
+            <value>Health workers</value>
+          </text>
+          <text id="/data/M_2.2/M_2.17.1:option7">
+            <value>SMS</value>
+          </text>
+          <text id="/data/M_2.2/M_2.17.1:option8">
+            <value>Community leaders</value>
+          </text>
+          <text id="/data/M_2.2/M_2.17.1:option9">
+            <value>Church/mosque</value>
+          </text>
+          <text id="/data/M_2.2/M_2.17.1:option10">
+            <value>Megaphones/PAS</value>
+          </text>
+          <text id="/data/M_2.2/M_2.17.1:option11">
+            <value>Other(Specify)</value>
+          </text>
+          <text id="/data/M_2.2/M_2.17.1.1:label">
+            <value>Other(specify)</value>
+          </text>
+          <text id="/data/M_2.2/M_2.17.1.1:hint">
+            <value>Other</value>
+          </text>
+          <text id="/data/M_3:label">
+            <value>MODULE 3:SIA POLIO IMMUNIZATION KNOWLEDGE &amp; ATTITUDES</value>
+          </text>
+          <text id="/data/M_3/M_3.18:label">
+            <value>How many times a child should get polio vaccination?</value>
+          </text>
+          <text id="/data/M_3/M_3.18:hint">
+            <value>(Meqaa jeer ayaa la rabaa in uu cunuga talaalka cudurka dabeesha qaato)</value>
+          </text>
+          <text id="/data/M_3/M_3.19:label">
+            <value>What is your opinion on a child receiving polio vaccine many times?</value>
+          </text>
+          <text id="/data/M_3/M_3.19:hint">
+            <value>(Waa maxay aragtidaada ku aadan in u cunuga qaato talaalka cudurka dabeesha in badan)</value>
+          </text>
+          <text id="/data/M_3/M_3.19:option0">
+            <value>Child is more protected from polio</value>
+          </text>
+          <text id="/data/M_3/M_3.19:option1">
+            <value>Child may be harmed</value>
+          </text>
+          <text id="/data/M_3/M_3.19:option2">
+            <value>Nothing/child not helped or harmed</value>
+          </text>
+          <text id="/data/M_3/M_3.19:option3">
+            <value>Don’t know</value>
+          </text>
+          <text id="/data/M_3/M_3.20:label">
+            <value>Do you agree that all children should receive polio vaccinations in campaigns?</value>
+          </text>
+          <text id="/data/M_3/M_3.20:hint">
+            <value>(Ma ogoshahay in ciyaalka dhamaan laga talaalo cudurka dabeesha waqtiyada ololaha socdo)</value>
+          </text>
+          <text id="/data/M_3/M_3.20:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/M_3/M_3.20:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/M_3/M_3.20:option2">
+            <value>Don't know</value>
+          </text>
+          <text id="/data/M_3/M_3.20.1:label">
+            <value>If no, which children do you think should not receive polio vaccination?</value>
+          </text>
+          <text id="/data/M_3/M_3.20.1:hint">
+            <value>(Hadey maya tahay, ciyaalkee ayaad is leedahay yeysan qaadanin talaalka)</value>
+          </text>
+          <text id="/data/M_3/M_3.20.1:option0">
+            <value>Newborns</value>
+          </text>
+          <text id="/data/M_3/M_3.20.1:option1">
+            <value>Sick children</value>
+          </text>
+          <text id="/data/M_3/M_3.20.1:option2">
+            <value>Physically handicapped children</value>
+          </text>
+          <text id="/data/M_3/M_3.20.1:option3">
+            <value>Others(Specify)</value>
+          </text>
+          <text id="/data/M_3/M_3.20.1.1:label">
+            <value>Others(Specify)</value>
+          </text>
+          <text id="/data/M_3/M_3.20.1.1:hint">
+            <value>Other</value>
+          </text>
+          <text id="/data/M_4:label">
+            <value>MODULE 4:ROUTINE IMMUNIZATION HISTORY</value>
+          </text>
+          <text id="/data/M_4/M_4.21:label">
+            <value>How many children aged 12-23 month live in this household?</value>
+          </text>
+          <text id="/data/M_4/M_4.21:hint">
+            <value>(Meqaa caruur o da’dooda u dhaxayso labo iyo toban bilood ila iyo saddex iyo labaatan bilood aya qoyskan ku nool)</value>
+          </text>
+          <text id="/data/M_4/M_4.1:label">
+            <value>MODULE 4.1 :ROUTINE IMMUNIZATION HISTORY</value>
+          </text>
+          <text id="/data/M_4/M_4.1/M_4.1.1:label">
+            <value>What is the child’s name? </value>
+          </text>
+          <text id="/data/M_4/M_4.1/M_4.1.1:hint">
+            <value>If more than one 12-23 months child live in the household, then select one randomly and write the name.</value>
+          </text>
+          <text id="/data/M_4/M_4.1/M_4.1.2:label">
+            <value>Date of Birth of (NAME OF CHILD)</value>
+          </text>
+          <text id="/data/M_4/M_4.1/M_4.1.2:hint">
+            <value>dd/mm/yyyy - (Taarikhduu dhashay (magaca cunuga)</value>
+          </text>
+          <text id="/data/M_4/M_4.1/M_4.1.3:label">
+            <value>What is (NAME OF CHILD)’s age in months?</value>
+          </text>
+          <text id="/data/M_4/M_4.1/M_4.1.3:hint">
+            <value>(Meqaa bilood jir waaye (magaca cunuga)</value>
+          </text>
+          <text id="/data/M_4/M_4.1/M_4.1.4:label">
+            <value>Gender of (NAME OF CHILD)</value>
+          </text>
+          <text id="/data/M_4/M_4.1/M_4.1.4:option0">
+            <value>Male</value>
+          </text>
+          <text id="/data/M_4/M_4.1/M_4.1.4:option1">
+            <value>Female</value>
+          </text>
+          <text id="/data/M_4/M_4.22:label">
+            <value>Do you have a vaccination card for (NAME OF CHILD)? </value>
+          </text>
+          <text id="/data/M_4/M_4.22:hint">
+            <value>(Ma haysataa kaarka talaalka ee (magaca cunuga)</value>
+          </text>
+          <text id="/data/M_4/M_4.22:option0">
+            <value>Yes, seen</value>
+          </text>
+          <text id="/data/M_4/M_4.22:option1">
+            <value>Yes, not seen</value>
+          </text>
+          <text id="/data/M_4/M_4.22:option2">
+            <value>No card</value>
+          </text>
+          <text id="/data/M_4/M_4.23:label">
+            <value>Did you ever have a vaccination card for (NAME OF CHILD)?</value>
+          </text>
+          <text id="/data/M_4/M_4.23:hint">
+            <value>(Weligaa ma u samaysay (magaca cunuga) karaka talaalka)</value>
+          </text>
+          <text id="/data/M_4/M_4.23:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/M_4/M_4.23:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/M_4/M_4.23:option2">
+            <value>Don't know</value>
+          </text>
+          <text id="/data/M_4/Vaccine_Card_Photo:label">
+            <value>Before leaving the house, take a picture of (NAME OF CHILD)'s vaccination card if available.</value>
+          </text>
+          <text id="/data/M_4/Vaccine_Card_Photo:hint">
+            <value>Rename the picture as below: C1_R1_Turkana (C1 is cluster 1, R1 is Record 1_Turkana is the county)</value>
+          </text>
+          <text id="/data/M_4/M_4.24:label">
+            <value>1)	COPY THE VACCINATION DATE FROM THE CHILD'S VACCINATION CARD                    2)	IF DATE NOT AVAILABLE BUT INDICATION OF VACCINATION IS PRESENT, PUT TODAY'S DATE</value>
+          </text>
+          <text id="/data/M_4/M_4.24/M_4.24.1:label">
+            <value>BCG</value>
+          </text>
+          <text id="/data/M_4/M_4.24/M_4.24.1:hint">
+            <value>dd/mm/yyyy</value>
+          </text>
+          <text id="/data/M_4/M_4.24/M_4.24.2:label">
+            <value>OPV0</value>
+          </text>
+          <text id="/data/M_4/M_4.24/M_4.24.2:hint">
+            <value>dd/mm/yyyy</value>
+          </text>
+          <text id="/data/M_4/M_4.24/M_4.24.3:label">
+            <value>OPV1</value>
+          </text>
+          <text id="/data/M_4/M_4.24/M_4.24.3:hint">
+            <value>dd/mm/yyyy</value>
+          </text>
+          <text id="/data/M_4/M_4.24/M_4.24.4:label">
+            <value>OPV2</value>
+          </text>
+          <text id="/data/M_4/M_4.24/M_4.24.4:hint">
+            <value>dd/mm/yyyy</value>
+          </text>
+          <text id="/data/M_4/M_4.24/M_4.24.5:label">
+            <value>OPV3</value>
+          </text>
+          <text id="/data/M_4/M_4.24/M_4.24.5:hint">
+            <value>dd/mm/yyyy</value>
+          </text>
+          <text id="/data/M_4/M_4.24/M_4.24.6:label">
+            <value>Pentavalent1</value>
+          </text>
+          <text id="/data/M_4/M_4.24/M_4.24.6:hint">
+            <value>dd/mm/yyyy</value>
+          </text>
+          <text id="/data/M_4/M_4.24/M_4.24.7:label">
+            <value>Pentavalent2</value>
+          </text>
+          <text id="/data/M_4/M_4.24/M_4.24.7:hint">
+            <value>dd/mm/yyyy</value>
+          </text>
+          <text id="/data/M_4/M_4.24/M_4.24.8:label">
+            <value>Pentavalent3</value>
+          </text>
+          <text id="/data/M_4/M_4.24/M_4.24.8:hint">
+            <value>dd/mm/yyyy</value>
+          </text>
+          <text id="/data/M_4/M_4.24/M_4.24.9:label">
+            <value>Measles</value>
+          </text>
+          <text id="/data/M_4/M_4.24/M_4.24.9:hint">
+            <value>dd/mm/yyyy</value>
+          </text>
+          <text id="/data/M_4/M_4.25:label">
+            <value>Has (NAME OF CHILD) received any vaccinations that are not recorded on this card, NOT including vaccinations given during polio campaigns?</value>
+          </text>
+          <text id="/data/M_4/M_4.25:hint">
+            <value>(Miyuu (magaca cunuga) qaatay talaal aan ku diiwaan gashanayn kaarkan, aan ku jirin talaalyada la siiyay xiligi ololaha cudurka dabeesha)</value>
+          </text>
+          <text id="/data/M_4/M_4.25:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/M_4/M_4.25:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/M_4/M_4.25:option2">
+            <value>Dont know</value>
+          </text>
+          <text id="/data/M_4/M_4.26:label">
+            <value>Did (NAME OF CHILD) ever receive any vaccinations, NOT including vaccinations given during polio campaigns?</value>
+          </text>
+          <text id="/data/M_4/M_4.26:hint">
+            <value>(Miyuu (magaca cunuga) weligis qaatay talaal, aan ku jirin talaayada la siiyay xiligi ololaha cudurka dabeesha) </value>
+          </text>
+          <text id="/data/M_4/M_4.26:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/M_4/M_4.26:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/M_4/M_4.26:option2">
+            <value>Dont know</value>
+          </text>
+          <text id="/data/M_4/M_4.27:label">
+            <value>Has (NAME OF CHILD) received a BCG vaccination against tuberculosis, that is, an injection in the arm or shoulder that usually causes a scar?</value>
+          </text>
+          <text id="/data/M_4/M_4.27:hint">
+            <value>arm or shoulder that usually causes a scar? (Miyuu (magaca cunuga) qaatay talaalka ka hortaga cudurka tiibida o laga dura gacanta mise garabka)</value>
+          </text>
+          <text id="/data/M_4/M_4.27:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/M_4/M_4.27:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/M_4/M_4.27:option2">
+            <value>Dont know</value>
+          </text>
+          <text id="/data/M_4/M_4.28:label">
+            <value>Has (NAME OF CHILD) received polio vaccine, that is, drops in the mouth?</value>
+          </text>
+          <text id="/data/M_4/M_4.28:hint">
+            <value>(Miyuu (magaca cunuga) qaatay talaalka afkushubka cudurka dabeesha)</value>
+          </text>
+          <text id="/data/M_4/M_4.28:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/M_4/M_4.28:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/M_4/M_4.28:option2">
+            <value>Dont know</value>
+          </text>
+          <text id="/data/M_4/M_4.28.1:label">
+            <value>At what age has (NAME OF CHILD) received the polio vaccine for the first time?</value>
+          </text>
+          <text id="/data/M_4/M_4.28.1:hint">
+            <value>(Da’duu(magaca cunuga) ku qaatay talaalka cudurka dabeesha marki ugu horaysay)</value>
+          </text>
+          <text id="/data/M_4/M_4.28.1:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/M_4/M_4.28.1:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/M_4/M_4.28.1:option2">
+            <value>Dont know</value>
+          </text>
+          <text id="/data/M_4/M_4.28.2:label">
+            <value>How many times (NAME OF CHILD) has received polio vaccine, NOT including during polio campaigns?</value>
+          </text>
+          <text id="/data/M_4/M_4.28.2:hint">
+            <value>(Meqaa jeer ayuu (magaca cunuga) qaatay talaalka cudurka dabeesha, aan ku jirin waqtiyada ololaha)</value>
+          </text>
+          <text id="/data/M_4/M_4.29:label">
+            <value>Has (NAME OF CHILD) received pentavalent vaccination, that is, an injection given in the thigh or buttocks, usually at the same time as polio drops?</value>
+          </text>
+          <text id="/data/M_4/M_4.29:hint">
+            <value>(Miyuu (magaca cunuga) qaatay talaal cirbad lagasiiyo bowdada mise simaha, o intabadan  lasiiyo waqtiga afkushubka cudurka dabeesha)</value>
+          </text>
+          <text id="/data/M_4/M_4.29:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/M_4/M_4.29:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/M_4/M_4.29:option2">
+            <value>Dont know</value>
+          </text>
+          <text id="/data/M_4/M_4.29.1:label">
+            <value>How many times was the pentavalent vaccination given to (NAME OF CHILD)?</value>
+          </text>
+          <text id="/data/M_4/M_4.29.1:hint">
+            <value>(Meqaa jeer aya la siiyey cirbadaas(magaca cunuga)</value>
+          </text>
+          <text id="/data/M_4/M_4.30:label">
+            <value>Has (NAME OF CHILD) received a measles injection - that is, a shot in the arm at the age of 9 months or older - to prevent him/her from getting measles?</value>
+          </text>
+          <text id="/data/M_4/M_4.30:hint">
+            <value>(Miyuu(magaca cunuga) qaatay talaalka jadeecada)</value>
+          </text>
+          <text id="/data/M_4/M_4.30:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/M_4/M_4.30:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/M_4/M_4.30:option2">
+            <value>Dont know</value>
+          </text>
+          <text id="/data/M_4/M_4.31:label">
+            <value>Has (NAME OF CHILD) received all 9 recommended vaccinations in the grid?</value>
+          </text>
+          <text id="/data/M_4/M_4.31:hint">
+            <value>(Miyuu (magaca cunuga) qaatay dhamaan sagaalka talaal ee kaarka ku qoran)</value>
+          </text>
+          <text id="/data/M_4/M_4.31:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/M_4/M_4.31:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/M_4/M_4.31.1:label">
+            <value>What are the reasons why (NAME OF CHILD) has not gotten all the recommended vaccinations?</value>
+          </text>
+          <text id="/data/M_4/M_4.31.1:hint">
+            <value>(Waa maxay sababta uu san (magaca cunuga) u qaadanin dhamaan talaalyadi loogu tala galay)</value>
+          </text>
+          <text id="/data/M_4/M_4.31.1:option0">
+            <value>Unaware of need</value>
+          </text>
+          <text id="/data/M_4/M_4.31.1:option1">
+            <value>Unaware of vaccination site/time</value>
+          </text>
+          <text id="/data/M_4/M_4.31.1:option2">
+            <value>Vaccinators absent (Health Facility, Outreach site)</value>
+          </text>
+          <text id="/data/M_4/M_4.31.1:option3">
+            <value>No outreach or vaccination site far</value>
+          </text>
+          <text id="/data/M_4/M_4.31.1:option4">
+            <value>No vaccine at vaccination site…(Health Facility/Outreach)</value>
+          </text>
+          <text id="/data/M_4/M_4.31.1:option5">
+            <value>Child sick on vaccination day</value>
+          </text>
+          <text id="/data/M_4/M_4.31.1:option6">
+            <value>Child away on vaccination day</value>
+          </text>
+          <text id="/data/M_4/M_4.31.1:option7">
+            <value>Vaccination harms children</value>
+          </text>
+          <text id="/data/M_4/M_4.31.1:option8">
+            <value>Vaccinator unhelpful</value>
+          </text>
+          <text id="/data/M_4/M_4.31.1:option9">
+            <value>Other (Specify)</value>
+          </text>
+          <text id="/data/M_4/M_4.31.1.1:label">
+            <value>Other(specify)</value>
+          </text>
+          <text id="/data/M_4/M_4.31.1.1:hint">
+            <value>Other</value>
+          </text>
+          <text id="/data/M_5:label">
+            <value>MODULE 5:ROUTINE IMMUNIZATION KNOWLEDGE &amp; ATTITUDES(Instruction for Data Collector: Say ‘I would like to ask a few questions about your knowledge and practice about the vaccine injections and drops given to children’)</value>
+          </text>
+          <text id="/data/M_5/M_5.32:label">
+            <value>Do you know at what age a child should start vaccinations?</value>
+          </text>
+          <text id="/data/M_5/M_5.32:hint">
+            <value>(Da’de kula tahay in u cunuga ku bilaabo talaalka)</value>
+          </text>
+          <text id="/data/M_5/M_5.32:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/M_5/M_5.32:option1">
+            <value>Don’t know/Not sure</value>
+          </text>
+          <text id="/data/M_5/M_5.32:option2">
+            <value>Other(Specify)</value>
+          </text>
+          <text id="/data/M_5/M_5.32.0.1:label">
+            <value>Other(specify)</value>
+          </text>
+          <text id="/data/M_5/M_5.32.0.1:hint">
+            <value>Other</value>
+          </text>
+          <text id="/data/M_5/M_5.32.0.2:label">
+            <value>What age ?</value>
+          </text>
+          <text id="/data/M_5/M_5.32.0.2:hint">
+            <value>Start vaccinations</value>
+          </text>
+          <text id="/data/M_5/M_5.32.1:label">
+            <value>Do you know at what age, a child should complete all routine vaccinations? </value>
+          </text>
+          <text id="/data/M_5/M_5.32.1:hint">
+            <value>(Da’de aya la rabaa in u cunuga ku dhamaysto talaalka dhamaan)</value>
+          </text>
+          <text id="/data/M_5/M_5.32.1:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/M_5/M_5.32.1:option1">
+            <value>Dont know/Not sure</value>
+          </text>
+          <text id="/data/M_5/M_5.32.1:option2">
+            <value>Other(specify)</value>
+          </text>
+          <text id="/data/M_5/M_5.32.1.1:label">
+            <value>Other(specify)</value>
+          </text>
+          <text id="/data/M_5/M_5.32.1.1:hint">
+            <value>Other</value>
+          </text>
+          <text id="/data/M_5/M_5.32.1.2:label">
+            <value>What age ?</value>
+          </text>
+          <text id="/data/M_5/M_5.32.1.2:hint">
+            <value>complete vaccinations</value>
+          </text>
+          <text id="/data/M_5/M_5.33:label">
+            <value>Can you tell me names of vaccinations (injections and drops) a child should get?</value>
+          </text>
+          <text id="/data/M_5/M_5.33:hint">
+            <value>(Ma iisheegi kartaa magacyada talaalka (cirbad iyo afkushub) ee cunuga la rabo in u qaato)</value>
+          </text>
+          <text id="/data/M_5/M_5.33:option0">
+            <value>BCG</value>
+          </text>
+          <text id="/data/M_5/M_5.33:option1">
+            <value>Polio</value>
+          </text>
+          <text id="/data/M_5/M_5.33:option2">
+            <value>Pentavalent</value>
+          </text>
+          <text id="/data/M_5/M_5.33:option3">
+            <value>Measles</value>
+          </text>
+          <text id="/data/M_5/M_5.33:option4">
+            <value>Hepatitis</value>
+          </text>
+          <text id="/data/M_5/M_5.33:option5">
+            <value>Pneumonia</value>
+          </text>
+          <text id="/data/M_5/M_5.33:option6">
+            <value>Other(specify)</value>
+          </text>
+          <text id="/data/M_5/M_5.33.0.1:label">
+            <value>Other(specify)</value>
+          </text>
+          <text id="/data/M_5/M_5.33.0.1:hint">
+            <value>Other vaccines</value>
+          </text>
+          <text id="/data/M_5/M_5.33.1:label">
+            <value>Can you tell us the place where your child can get immunized by all vaccines?</value>
+          </text>
+          <text id="/data/M_5/M_5.33.1:hint">
+            <value>(Ma noo sheegi kartaa meelaha u cunukaada ka qaadan karo talaalka dhamaan)</value>
+          </text>
+          <text id="/data/M_5/M_5.33.1:option0">
+            <value>Health facility (GoK)</value>
+          </text>
+          <text id="/data/M_5/M_5.33.1:option1">
+            <value>Private Clinics</value>
+          </text>
+          <text id="/data/M_5/M_5.33.1:option2">
+            <value>Faith Based Clinics</value>
+          </text>
+          <text id="/data/M_5/M_5.33.1:option3">
+            <value>Outreach Sites</value>
+          </text>
+          <text id="/data/M_5/M_5.33.1:option4">
+            <value>Mobile Clinics</value>
+          </text>
+          <text id="/data/M_5/M_5.33.1:option5">
+            <value>Don’t Know</value>
+          </text>
+          <text id="/data/M_5/M_5.33.1:option6">
+            <value>Other (specify)</value>
+          </text>
+          <text id="/data/M_5/M_5.33.1.1:label">
+            <value>Other(specify)</value>
+          </text>
+          <text id="/data/M_5/M_5.33.1.1:hint">
+            <value>Other vaccines</value>
+          </text>
+          <text id="/data/M_5/M_5.34:label">
+            <value>At what age does a baby need to receive the polio vaccine, that is, drops in the mouth, for the first time?</value>
+          </text>
+          <text id="/data/M_5/M_5.34:hint">
+            <value>(Da’dee aya cunuga la rabaa in u qaato talaalka afkushubka  cudurka dabeesha marka ugu horayso)</value>
+          </text>
+          <text id="/data/M_5/M_5.34:option0">
+            <value>In first two weeks of birth</value>
+          </text>
+          <text id="/data/M_5/M_5.34:option1">
+            <value>Later</value>
+          </text>
+          <text id="/data/M_5/M_5.34:option2">
+            <value>Don’t know</value>
+          </text>
+          <text id="/data/M_5/M_5.34.1:label">
+            <value>Do you know at what age a child should get measles injection?</value>
+          </text>
+          <text id="/data/M_5/M_5.34.1:hint">
+            <value>(Da’de aya la rabaa in u cunuga ku qaato talaalka jadeecada)</value>
+          </text>
+          <text id="/data/M_5/M_5.34.1:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/M_5/M_5.34.1:option1">
+            <value>Dont know/Not sure</value>
+          </text>
+          <text id="/data/M_5/M_5.34.1:option2">
+            <value>Other(Specify)</value>
+          </text>
+          <text id="/data/M_5/M_5.34.1.1:label">
+            <value>Other(specify)</value>
+          </text>
+          <text id="/data/M_5/M_5.34.1.1:hint">
+            <value>Other</value>
+          </text>
+          <text id="/data/M_5/M_5.34.1.2:label">
+            <value>What age ?</value>
+          </text>
+          <text id="/data/M_5/M_5.34.1.2:hint">
+            <value>measles injections</value>
+          </text>
+          <text id="/data/M_5/M_5.35:label">
+            <value>When/How do you know when your child does not need any more vaccinations?</value>
+          </text>
+          <text id="/data/M_5/M_5.35:hint">
+            <value>(Sideed ku ogaataa in u cunugaada u baahnayn talaal dambe)</value>
+          </text>
+          <text id="/data/M_5/M_5.35:option0">
+            <value>I refer to the immunization card</value>
+          </text>
+          <text id="/data/M_5/M_5.35:option1">
+            <value>1 follow the Health Workers’ instructions</value>
+          </text>
+          <text id="/data/M_5/M_5.35:option2">
+            <value>I refer to child’s age</value>
+          </text>
+          <text id="/data/M_5/M_5.35:option3">
+            <value>After the measles vaccine</value>
+          </text>
+          <text id="/data/M_5/M_5.35:option4">
+            <value>Child looks healthy</value>
+          </text>
+          <text id="/data/M_5/M_5.35:option5">
+            <value>Child got sick after vaccination</value>
+          </text>
+          <text id="/data/M_5/M_5.35:option6">
+            <value>I do not know how to decide</value>
+          </text>
+          <text id="/data/M_5/M_5.35:option7">
+            <value>Other (SPECIFY)</value>
+          </text>
+          <text id="/data/M_5/M_5.35.0.1:label">
+            <value>Other(specify)</value>
+          </text>
+          <text id="/data/M_5/M_5.35.0.1:hint">
+            <value>Other</value>
+          </text>
+          <text id="/data/M_5/M_5.36:label">
+            <value>What motivates you or others to vaccinate your children?</value>
+          </text>
+          <text id="/data/M_5/M_5.36:hint">
+            <value>(Maxa adiga mise dadka kale ku dhiiran galiyaa in ay talaalan ciyaalkooda)</value>
+          </text>
+          <text id="/data/M_5/M_5.36:option0">
+            <value>Vaccination is important</value>
+          </text>
+          <text id="/data/M_5/M_5.36:option1">
+            <value>Vaccination prevents disease</value>
+          </text>
+          <text id="/data/M_5/M_5.36:option2">
+            <value>Vaccination keeps my child healthy</value>
+          </text>
+          <text id="/data/M_5/M_5.36:option3">
+            <value>It is free </value>
+          </text>
+          <text id="/data/M_5/M_5.36:option4">
+            <value>The health care worker told me I should</value>
+          </text>
+          <text id="/data/M_5/M_5.36:option5">
+            <value>The volunteer told me I should</value>
+          </text>
+          <text id="/data/M_5/M_5.36:option6">
+            <value>My family member(s) told me I should</value>
+          </text>
+          <text id="/data/M_5/M_5.36:option7">
+            <value>My friend(s) told me I should</value>
+          </text>
+          <text id="/data/M_5/M_5.36:option8">
+            <value>Don’t know</value>
+          </text>
+          <text id="/data/M_5/M_5.36:option9">
+            <value>Other (Specify)</value>
+          </text>
+          <text id="/data/M_5/M_5.36.0.1:label">
+            <value>Other(specify)</value>
+          </text>
+          <text id="/data/M_5/M_5.36.0.1:hint">
+            <value>Other</value>
+          </text>
+          <text id="/data/M_5/M_5.37:label">
+            <value>Where can you take a child to be vaccinated with all vaccines (injections and drops)?</value>
+          </text>
+          <text id="/data/M_5/M_5.37:hint">
+            <value>(Xageed gayni cunugaada si u helo dhamaan talaalyada (cirbad iyo afkushub)</value>
+          </text>
+          <text id="/data/M_5/M_5.37:option0">
+            <value>Government Health Facility</value>
+          </text>
+          <text id="/data/M_5/M_5.37:option1">
+            <value>Private Clinics</value>
+          </text>
+          <text id="/data/M_5/M_5.37:option2">
+            <value>Faith Based Clinics</value>
+          </text>
+          <text id="/data/M_5/M_5.37:option3">
+            <value>Outreach sites</value>
+          </text>
+          <text id="/data/M_5/M_5.37:option4">
+            <value>Mobile Clinics</value>
+          </text>
+          <text id="/data/M_5/M_5.37:option5">
+            <value>Don’t know</value>
+          </text>
+          <text id="/data/M_5/M_5.37:option6">
+            <value>Others (SPECIFY)</value>
+          </text>
+          <text id="/data/M_5/M_5.37.0.1:label">
+            <value>Other(specify)</value>
+          </text>
+          <text id="/data/M_5/M_5.37.0.1:hint">
+            <value>Other</value>
+          </text>
+          <text id="/data/M_5/M_5.38:label">
+            <value>By what means do you usually travel to the place (health facility, outreach site or so) where you or other people in your community generally go to get immunization for child? </value>
+          </text>
+          <text id="/data/M_5/M_5.38:hint">
+            <value>(Qaabkee inta badan lagu gaaraa goobaha caafimaad ama meelaha lagu qabtaa ololaha talaalka oo  aad caruurta gaysataan adiga iyo dadka kale)</value>
+          </text>
+          <text id="/data/M_5/M_5.38:option0">
+            <value>Foot</value>
+          </text>
+          <text id="/data/M_5/M_5.38:option1">
+            <value>Bicycle</value>
+          </text>
+          <text id="/data/M_5/M_5.38:option2">
+            <value>Bus</value>
+          </text>
+          <text id="/data/M_5/M_5.38:option3">
+            <value>By car or motorcycle</value>
+          </text>
+          <text id="/data/M_5/M_5.38:option4">
+            <value>I don’t travel to that place</value>
+          </text>
+          <text id="/data/M_5/M_5.38:option5">
+            <value>Other(specify)</value>
+          </text>
+          <text id="/data/M_5/M_5.38.0.1:label">
+            <value>Other(specify)</value>
+          </text>
+          <text id="/data/M_5/M_5.38.0.1:hint">
+            <value>Other</value>
+          </text>
+          <text id="/data/M_5/M_5.38.1:label">
+            <value>How many minutes does it take to get to the place (health facility, outreach site or so) where you and people in your community generally go to get vaccination for child? </value>
+          </text>
+          <text id="/data/M_5/M_5.38.1:hint">
+            <value>(Meqaa daqiiqo aya loo socdaa goobaha caafimaad ama meelaha lagu qabtaa ololaha talaal o aad caruurta gaysataan adiga iyo dadka kale) </value>
+          </text>
+          <text id="/data/M_5/M_5.38.1:option0">
+            <value>Less than 30 minutes</value>
+          </text>
+          <text id="/data/M_5/M_5.38.1:option1">
+            <value>30 minutes – under 1 hour</value>
+          </text>
+          <text id="/data/M_5/M_5.38.1:option2">
+            <value>1 hour to under 2 hours</value>
+          </text>
+          <text id="/data/M_5/M_5.38.1:option3">
+            <value>2 hours to under 3 hours</value>
+          </text>
+          <text id="/data/M_5/M_5.38.1:option4">
+            <value>3 or more hours</value>
+          </text>
+          <text id="/data/M_5/M_5.39:label">
+            <value>What do you like about the health facility/vaccination sites and its immunization service?</value>
+          </text>
+          <text id="/data/M_5/M_5.39:hint">
+            <value>(Maxaa ku jacaylgaliyaa marka aad tagtid goobaha caafimaad/xaruumaha talaalka iyo adeega talaalka ay bixiyaan)</value>
+          </text>
+          <text id="/data/M_5/M_5.39:option0">
+            <value>Vaccinator helpful</value>
+          </text>
+          <text id="/data/M_5/M_5.39:option1">
+            <value>Short waiting time</value>
+          </text>
+          <text id="/data/M_5/M_5.39:option2">
+            <value>Vaccines are always available</value>
+          </text>
+          <text id="/data/M_5/M_5.39:option3">
+            <value>Vaccinator is always present</value>
+          </text>
+          <text id="/data/M_5/M_5.39:option4">
+            <value>Vaccination site is near</value>
+          </text>
+          <text id="/data/M_5/M_5.39:option5">
+            <value>Vaccination site is nice</value>
+          </text>
+          <text id="/data/M_5/M_5.39:option6">
+            <value>Others (SPECIFY)</value>
+          </text>
+          <text id="/data/M_5/M_5.39.0.1:label">
+            <value>Other(specify)</value>
+          </text>
+          <text id="/data/M_5/M_5.39.0.1:hint">
+            <value>Other</value>
+          </text>
+          <text id="/data/M_5/M_5.40:label">
+            <value>What do you not like about the health facility/vaccination sites and its immunization service?</value>
+          </text>
+          <text id="/data/M_5/M_5.40:hint">
+            <value>(waa maxay waxa aadan jecleysanin dhanka xarumaha talaalka caafimaadka lagu bixiyo iyo adeega kahortaga xanuunada? (Maxa kale? Wax kale?)</value>
+          </text>
+          <text id="/data/M_5/M_5.40:option0">
+            <value>Vaccinator harsh</value>
+          </text>
+          <text id="/data/M_5/M_5.40:option1">
+            <value>Vaccinator drunk</value>
+          </text>
+          <text id="/data/M_5/M_5.40:option2">
+            <value>Long waiting time</value>
+          </text>
+          <text id="/data/M_5/M_5.40:option3">
+            <value>Vaccination site is dirty/not nice</value>
+          </text>
+          <text id="/data/M_5/M_5.40:option4">
+            <value>Vaccination site closed</value>
+          </text>
+          <text id="/data/M_5/M_5.40:option5">
+            <value>No vaccine at the vaccination site</value>
+          </text>
+          <text id="/data/M_5/M_5.40:option6">
+            <value>Vaccinator absent</value>
+          </text>
+          <text id="/data/M_5/M_5.40:option7">
+            <value>Vaccination is expensive</value>
+          </text>
+          <text id="/data/M_5/M_5.40:option8">
+            <value>Adverse effect from vaccine</value>
+          </text>
+          <text id="/data/M_5/M_5.40:option9">
+            <value>Other (Specify)</value>
+          </text>
+          <text id="/data/M_5/M_5.40.0.1:label">
+            <value>Other(specify)</value>
+          </text>
+          <text id="/data/M_5/M_5.40.0.1:hint">
+            <value>Other</value>
+          </text>
+          <text id="/data/M_5/M_5.41:label">
+            <value>Do you have any suggestions of things that could be done that would make you or others more likely to get your/their child vaccinated?</value>
+          </text>
+          <text id="/data/M_5/M_5.41:hint">
+            <value>(Mahaysaa talooyin oo llagu dhaqaaqi karo kuwaasi oo kaa dhigi karaan adiga mise dadka kale kuwo u dhaw in caruurtooda la talaalo?</value>
+          </text>
+          <text id="/data/M_5/M_5.41:option0">
+            <value>Make vaccination site easier to get to</value>
+          </text>
+          <text id="/data/M_5/M_5.41:option1">
+            <value>Make service available for longer hours</value>
+          </text>
+          <text id="/data/M_5/M_5.41:option2">
+            <value>Introduce outreach site in my village</value>
+          </text>
+          <text id="/data/M_5/M_5.41:option3">
+            <value>Make vaccines available on scheduled days</value>
+          </text>
+          <text id="/data/M_5/M_5.41:option4">
+            <value>Shorten waiting time </value>
+          </text>
+          <text id="/data/M_5/M_5.41:option5">
+            <value>Make it free or inexpensive services</value>
+          </text>
+          <text id="/data/M_5/M_5.41:option6">
+            <value>Don’t know/no suggestions</value>
+          </text>
+          <text id="/data/M_5/M_5.41:option7">
+            <value>Other (SPECIFY</value>
+          </text>
+          <text id="/data/M_5/M_5.41.0.1:label">
+            <value>Other(specify)</value>
+          </text>
+          <text id="/data/M_5/M_5.41.0.1:hint">
+            <value>Other</value>
+          </text>
+          <text id="/data/M_6:label">
+            <value>MODULE 6:ACUTE FLACCID PARALYSIS</value>
+          </text>
+          <text id="/data/M_6/M_6.42:label">
+            <value>Have you heard of acute flaccid paralysis, that is, sudden paralysis in children not caused by accidents?</value>
+          </text>
+          <text id="/data/M_6/M_6.42:hint">
+            <value>(Ma maqashay cudurka degdega ah ee xubnaha jirka oo shaqadiisa gabo, kaasi oo ah, shaqo-gabida jirka  kediska ah ee  dhanka caruurta ee aanan keenin shilka?</value>
+          </text>
+          <text id="/data/M_6/M_6.42:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/M_6/M_6.42:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/M_6/M_6.42:option2">
+            <value>Dont know</value>
+          </text>
+          <text id="/data/M_6/M_6.42.1:label">
+            <value>Please explain what happens to a child with paralysis.  </value>
+          </text>
+          <text id="/data/M_6/M_6.42.1:hint">
+            <value>Fadlan waxad faahfaahin ka bixisaa waxa kudhaco canuga qabo cudurka shaqo-gabida jirka)  </value>
+          </text>
+          <text id="/data/M_6/M_6.42.1:option0">
+            <value>Child stops walking/crawling or moving legs or arms </value>
+          </text>
+          <text id="/data/M_6/M_6.42.1:option1">
+            <value>Limp limbs</value>
+          </text>
+          <text id="/data/M_6/M_6.42.1:option2">
+            <value>Child gets fever </value>
+          </text>
+          <text id="/data/M_6/M_6.42.1:option3">
+            <value>Child feels pain </value>
+          </text>
+          <text id="/data/M_6/M_6.42.1:option4">
+            <value>Child vomits  </value>
+          </text>
+          <text id="/data/M_6/M_6.42.1:option5">
+            <value>Child looks fatigued </value>
+          </text>
+          <text id="/data/M_6/M_6.42.1:option6">
+            <value>Other (SPECIFY</value>
+          </text>
+          <text id="/data/M_6/M_6.42.1.1:label">
+            <value>Other(specify)</value>
+          </text>
+          <text id="/data/M_6/M_6.42.1.1:hint">
+            <value>Other</value>
+          </text>
+          <text id="/data/M_6/M_6.43:label">
+            <value>Who would you contact besides your family if you child had paralysis, that is, stopped being able to move his/her arm or leg?</value>
+          </text>
+          <text id="/data/M_6/M_6.43:hint">
+            <value>(kumaad la xiriirtaa aanan reerkaga kamid ahayn hadii canugaaga uu qabo cudurka shaqo-gabida jirka, taasi oo ah, mid aanan dhaqaajin kareynin gacantiisa mise kugtiisa?</value>
+          </text>
+          <text id="/data/M_6/M_6.43:option0">
+            <value>Health Facility (GoK)</value>
+          </text>
+          <text id="/data/M_6/M_6.43:option1">
+            <value>Private Clinics/Doctor</value>
+          </text>
+          <text id="/data/M_6/M_6.43:option2">
+            <value>Faith Based Clinics</value>
+          </text>
+          <text id="/data/M_6/M_6.43:option3">
+            <value>Traditional healer</value>
+          </text>
+          <text id="/data/M_6/M_6.43:option4">
+            <value>Herbalist</value>
+          </text>
+          <text id="/data/M_6/M_6.43:option5">
+            <value>Religious Leader</value>
+          </text>
+          <text id="/data/M_6/M_6.43:option6">
+            <value>Community Health Volunteer</value>
+          </text>
+          <text id="/data/M_6/M_6.43:option7">
+            <value>Other(specify)</value>
+          </text>
+          <text id="/data/M_6/M_6.43.0.1:label">
+            <value>Other(specify)</value>
+          </text>
+          <text id="/data/M_6/M_6.43.0.1:hint">
+            <value>Other</value>
+          </text>
+          <text id="/data/M_7:label">
+            <value>MODULE 7:MOBILIZER CONTACT</value>
+          </text>
+          <text id="/data/M_7/M_7.44:label">
+            <value>Do you know the name of the Community Health Volunteer/Mobilizer who visits for health matters ?</value>
+          </text>
+          <text id="/data/M_7/M_7.44:hint">
+            <value>(Waa  maxay magaca kuwa u adeega bulshada ee dhanka caafimaadka ee iskaa-wax-uqabso ah, kuwaasi oo soo booqdo gurigaaga mise deriskaaga arimo caafimaad awgii?</value>
+          </text>
+          <text id="/data/M_7/M_7.44:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/M_7/M_7.44:option1">
+            <value>Dont know/Not sure</value>
+          </text>
+          <text id="/data/M_7/M_7.44.1:label">
+            <value>What is the name of the Community Health Volunteer/Mobilizer who visits your house or neighborhood for health matters?</value>
+          </text>
+          <text id="/data/M_7/M_7.44.1:hint">
+            <value>community health personnel knowledge</value>
+          </text>
+          <text id="/data/M_7/M_7.45:label">
+            <value>Do you remember being visited at your home by a Community Health Volunteer/Mobilizer in the past 6 months at times other than the days of a vaccination campaign?</value>
+          </text>
+          <text id="/data/M_7/M_7.45:hint">
+            <value>(Ma xasuusataa kolka oogu dambeysay ee ay kusoo booqdeen mararka qaar  kuwa u adeego bulshada dhanka caafimaadka ee iskaa-wax-uqabso ah ee aan ka ahayn maalmaha talaalka guud?</value>
+          </text>
+          <text id="/data/M_7/M_7.45:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/M_7/M_7.45:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/M_7/M_7.45:option2">
+            <value>Dont know</value>
+          </text>
+          <text id="/data/M_7/M_7.45.1:label">
+            <value>What do you remember them talking about with you?</value>
+          </text>
+          <text id="/data/M_7/M_7.45.1:hint">
+            <value>(Maxaad ka xasuusataa arimaha ay kaala hadlaayeen?</value>
+          </text>
+          <text id="/data/M_7/M_7.45.1:option0">
+            <value>Polio Campaign</value>
+          </text>
+          <text id="/data/M_7/M_7.45.1:option1">
+            <value>Routine vaccinations </value>
+          </text>
+          <text id="/data/M_7/M_7.45.1:option2">
+            <value>Paralysis in children</value>
+          </text>
+          <text id="/data/M_7/M_7.45.1:option3">
+            <value>Disease and reporting </value>
+          </text>
+          <text id="/data/M_7/M_7.45.1:option4">
+            <value>Child health (Diarrhea/cholera, Pneumonia, Malaria, Fever, Nutrition) </value>
+          </text>
+          <text id="/data/M_7/M_7.45.1:option5">
+            <value>Pregnancy/delivery/PNC</value>
+          </text>
+          <text id="/data/M_7/M_7.45.1:option6">
+            <value>Water, Sanitation and Hygiene</value>
+          </text>
+          <text id="/data/M_7/M_7.45.1:option7">
+            <value>HIV/AIDS</value>
+          </text>
+          <text id="/data/M_7/M_7.45.1:option8">
+            <value>Don’t know</value>
+          </text>
+          <text id="/data/M_7/M_7.45.1:option9">
+            <value>Others (SPECIFY)</value>
+          </text>
+          <text id="/data/M_7/M_7.45.1.1:label">
+            <value>Other(specify)</value>
+          </text>
+          <text id="/data/M_7/M_7.45.1.1:hint">
+            <value>Other</value>
+          </text>
+          <text id="/data/M_7/M_7.46:label">
+            <value>Have you ever attended a group health education session given by a Community Health Volunteer/Mobilizer? </value>
+          </text>
+          <text id="/data/M_7/M_7.46:hint">
+            <value>(Ma tagtay weligaa kulan wadareed ee waxbarasho caafimaad lagaga hadlaayo?</value>
+          </text>
+          <text id="/data/M_7/M_7.46:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/M_7/M_7.46:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/M_7/M_7.46:option2">
+            <value>Dont know</value>
+          </text>
+          <text id="/data/M_7/M_7.46.1:label">
+            <value>What was the topic of health education session?</value>
+          </text>
+          <text id="/data/M_7/M_7.46.1:hint">
+            <value>(Muxuu ahaa mawdhuuca kulankaasi waxbarasho ee caafimaadka ?</value>
+          </text>
+          <text id="/data/M_7/M_7.46.1:option0">
+            <value>Polio Campaign</value>
+          </text>
+          <text id="/data/M_7/M_7.46.1:option1">
+            <value>Routine vaccinations </value>
+          </text>
+          <text id="/data/M_7/M_7.46.1:option2">
+            <value>Paralysis in children</value>
+          </text>
+          <text id="/data/M_7/M_7.46.1:option3">
+            <value>Disease and reporting</value>
+          </text>
+          <text id="/data/M_7/M_7.46.1:option4">
+            <value>Child health (Diarrhea/cholera, Pneumonia, Malaria, Fever, Nutrition)….</value>
+          </text>
+          <text id="/data/M_7/M_7.46.1:option5">
+            <value>Pregnancy/delivery/PNC</value>
+          </text>
+          <text id="/data/M_7/M_7.46.1:option6">
+            <value>Water, Sanitation and Hygiene</value>
+          </text>
+          <text id="/data/M_7/M_7.46.1:option7">
+            <value>HIV/AIDS</value>
+          </text>
+          <text id="/data/M_7/M_7.46.1:option8">
+            <value>Don’t know</value>
+          </text>
+          <text id="/data/M_7/M_7.46.1:option9">
+            <value>Others (SPECIFY</value>
+          </text>
+          <text id="/data/M_7/M_7.46.1.1:label">
+            <value>Other(specify)</value>
+          </text>
+          <text id="/data/M_7/M_7.46.1.1:hint">
+            <value>Other</value>
+          </text>
+          <text id="/data/M_8:label">
+            <value>MODULE 8: CROSS-BORDER BEHAVIOR</value>
+          </text>
+          <text id="/data/M_8/M_8.47:label">
+            <value>Do any of your family members visit other countries?</value>
+          </text>
+          <text id="/data/M_8/M_8.47:hint">
+            <value>(Majiraa xubin kamid ah qoyskaaga oo booqday wadamo kale?</value>
+          </text>
+          <text id="/data/M_8/M_8.47:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/M_8/M_8.47:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/M_8/M_8.47:option2">
+            <value>Dont know</value>
+          </text>
+          <text id="/data/M_8/M_8.47.1:label">
+            <value>How often do they visit other countries?</value>
+          </text>
+          <text id="/data/M_8/M_8.47.1:hint">
+            <value>(intee goor ayey booqdeen wadamadaa kale?</value>
+          </text>
+          <text id="/data/M_8/M_8.47.1:option0">
+            <value>Regularly</value>
+          </text>
+          <text id="/data/M_8/M_8.47.1:option1">
+            <value>Sometimes</value>
+          </text>
+          <text id="/data/M_8/M_8.47.2:label">
+            <value>For what reasons do they cross the border?</value>
+          </text>
+          <text id="/data/M_8/M_8.47.2:hint">
+            <value>Sababo sidee bay oogu gudbeen  xuduuda?</value>
+          </text>
+          <text id="/data/M_8/M_8.47.2:option0">
+            <value>For pasture</value>
+          </text>
+          <text id="/data/M_8/M_8.47.2:option1">
+            <value>For water</value>
+          </text>
+          <text id="/data/M_8/M_8.47.2:option2">
+            <value>For Trade</value>
+          </text>
+          <text id="/data/M_8/M_8.47.2:option3">
+            <value>For Education</value>
+          </text>
+          <text id="/data/M_8/M_8.47.2:option4">
+            <value>For cultural events</value>
+          </text>
+          <text id="/data/M_8/M_8.47.2:option5">
+            <value>For Health Care</value>
+          </text>
+          <text id="/data/M_8/M_8.47.2:option6">
+            <value>For Relief Food</value>
+          </text>
+          <text id="/data/M_8/M_8.47.2:option7">
+            <value>For work</value>
+          </text>
+          <text id="/data/M_8/M_8.47.2:option8">
+            <value>Other(Specify)</value>
+          </text>
+          <text id="/data/M_8/M_8.47.2.1:label">
+            <value>Other(specify)</value>
+          </text>
+          <text id="/data/M_8/M_8.47.2.1:hint">
+            <value>Other</value>
+          </text>
+          <text id="/data/M_8/M_8.48:label">
+            <value>Does your family get visitors from the other side of the international border?</value>
+          </text>
+          <text id="/data/M_8/M_8.48:hint">
+            <value>(Miyuu helaa qoysakaaga dad booqasho oogu yimaado dhinacyada xuduudaha caalamiga?</value>
+          </text>
+          <text id="/data/M_8/M_8.48:option0">
+            <value>Yes</value>
+          </text>
+          <text id="/data/M_8/M_8.48:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/M_8/M_8.48:option2">
+            <value>Dont know</value>
+          </text>
+          <text id="/data/M_8/M_8.48.0.1:label">
+            <value>How often do they visit your family?</value>
+          </text>
+          <text id="/data/M_8/M_8.48.0.1:hint">
+            <value>(Intee goor bay soo booqdaan qoyskaaga?</value>
+          </text>
+          <text id="/data/M_8/M_8.48.0.1:option0">
+            <value>Regularly</value>
+          </text>
+          <text id="/data/M_8/M_8.48.0.1:option1">
+            <value>Sometimes</value>
+          </text>
+          <text id="/data/Conclusion:label">
+            <value>Thank the mother/ caretaker for participation</value>
+          </text>
+          <text id="/data/Conclusion2:label">
+            <value>Given the respondent declined move to the next household.</value>
+          </text>
+        </translation>
+      </itext>
+      <bind nodeset="/data/meta/instanceID" type="string" readonly="true()" calculate="concat('uuid:', uuid())"/>
+      <bind nodeset="/data/start_time" type="dateTime" jr:preload="timestamp" jr:preloadParams="start"/>
+      <bind nodeset="/data/interview_date" type="date" jr:preload="date" jr:preloadParams="today"/>
+      <bind nodeset="/data/phone_ID" type="string" jr:preload="property" jr:preloadParams="phonenumber"/>
+      <bind nodeset="/data/Device_ID" type="string" jr:preload="property" jr:preloadParams="deviceid"/>
+      <bind nodeset="/data/Intro" type="string" readonly="true()"/>
+      <bind nodeset="/data/Consent" type="select1" required="true()" jr:requiredMsg="jr:itext('/data/Consent:requiredMsg')"/>
+      <bind nodeset="/data/respName" type="string" required="true()" relevant="(selected(/data/Consent, 'Y')) and (/data/Consent = 'Y')"/>
+      <bind nodeset="/data/audioRecording" type="binary" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/respPic" type="binary" required="true()" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/chilRship" type="select1" required="true()" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/otherRship" type="string" relevant="(selected(/data/chilRship, 'Other'))"/>
+      <bind nodeset="/data/Cluster_ID" type="int" required="true()" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/Questionnaire_ID" type="int" required="true()" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/interview_date_ID" type="date" required="true()" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/GPS_point" type="geopoint" required="true()" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/global1" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/global1/M_L2" type="select1" required="true()" relevant="(/data/Consent = 'Y')"/>
+      <instance id="choices_global1-M-L2">
+        <root>
+          <item>
+            <itextId>/data/global1/M_L2:option0</itextId>
+            <value>Kenya</value>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L2:option1</itextId>
+            <value>Somalia</value>
+          </item>
+        </root>
+      </instance>
+      <bind nodeset="/data/global1/M_L3" type="select1" required="true()" relevant="(/data/Consent = 'Y')"/>
+      <instance id="choices_global1-M-L3">
+        <root>
+          <item>
+            <itextId>/data/global1/M_L3:option0</itextId>
+            <value>Marsabit_County</value>
+            <M_L2>Kenya</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L3:option1</itextId>
+            <value>Turkana_County</value>
+            <M_L2>Kenya</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L3:option2</itextId>
+            <value>Garissa_County</value>
+            <M_L2>Kenya</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L3:option3</itextId>
+            <value>Mandera_County</value>
+            <M_L2>Kenya</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L3:option4</itextId>
+            <value>Wajir_County</value>
+            <M_L2>Kenya</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L3:option5</itextId>
+            <value>Gedo_Region</value>
+            <M_L2>Somalia</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L3:option6</itextId>
+            <value>Lower_Juba_Region</value>
+            <M_L2>Somalia</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L3:option7</itextId>
+            <value>Nairobi_County</value>
+            <M_L2>Kenya</M_L2>
+          </item>
+        </root>
+      </instance>
+      <bind nodeset="/data/global1/M_L4" type="select1" required="true()" relevant="(/data/Consent = 'Y')"/>
+      <instance id="choices_global1-M-L4">
+        <root>
+          <item>
+            <itextId>/data/global1/M_L4:option0</itextId>
+            <value>North_Horr</value>
+            <M_L3>Marsabit_County</M_L3>
+            <M_L2>Kenya</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L4:option1</itextId>
+            <value>Moyale</value>
+            <M_L3>Marsabit_County</M_L3>
+            <M_L2>Kenya</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L4:option2</itextId>
+            <value>Turkana_West_Sub_County_Kakuma</value>
+            <M_L3>Turkana_County</M_L3>
+            <M_L2>Kenya</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L4:option3</itextId>
+            <value>Loima_Sub_County_Lorugum</value>
+            <M_L3>Turkana_County</M_L3>
+            <M_L2>Kenya</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L4:option4</itextId>
+            <value>Kibish_Sub_County</value>
+            <M_L3>Turkana_County</M_L3>
+            <M_L2>Kenya</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L4:option5</itextId>
+            <value>Fafi_Sub_County</value>
+            <M_L3>Garissa_County</M_L3>
+            <M_L2>Kenya</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L4:option6</itextId>
+            <value>Hulugho_Sub_County</value>
+            <M_L3>Garissa_County</M_L3>
+            <M_L2>Kenya</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L4:option7</itextId>
+            <value>Dadaab_Sub_County</value>
+            <M_L3>Garissa_County</M_L3>
+            <M_L2>Kenya</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L4:option8</itextId>
+            <value>Mandera_West</value>
+            <M_L3>Mandera_County</M_L3>
+            <M_L2>Kenya</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L4:option9</itextId>
+            <value>Mandera_South</value>
+            <M_L3>Mandera_County</M_L3>
+            <M_L2>Kenya</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L4:option10</itextId>
+            <value>Banisa</value>
+            <M_L3>Mandera_County</M_L3>
+            <M_L2>Kenya</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L4:option11</itextId>
+            <value>Mandera_North</value>
+            <M_L3>Mandera_County</M_L3>
+            <M_L2>Kenya</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L4:option12</itextId>
+            <value>Mandera_East_and_Lafey</value>
+            <M_L3>Mandera_County</M_L3>
+            <M_L2>Kenya</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L4:option13</itextId>
+            <value>Wajir_North_Sub_County</value>
+            <M_L3>Wajir_County</M_L3>
+            <M_L2>Kenya</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L4:option14</itextId>
+            <value>Wajir_East_Sub_County</value>
+            <M_L3>Wajir_County</M_L3>
+            <M_L2>Kenya</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L4:option15</itextId>
+            <value>Wajir_South_Sub_County</value>
+            <M_L3>Wajir_County</M_L3>
+            <M_L2>Kenya</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L4:option16</itextId>
+            <value>Dolow_District</value>
+            <M_L3>Gedo_Region</M_L3>
+            <M_L2>Somalia</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L4:option17</itextId>
+            <value>Belet_Hawa_District</value>
+            <M_L3>Gedo_Region</M_L3>
+            <M_L2>Somalia</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L4:option18</itextId>
+            <value>Elwak_District</value>
+            <M_L3>Gedo_Region</M_L3>
+            <M_L2>Somalia</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L4:option19</itextId>
+            <value>Gerille_Sub_District</value>
+            <M_L3>Gedo_Region</M_L3>
+            <M_L2>Somalia</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L4:option20</itextId>
+            <value>Afmadow_Dhobley_Sub_District</value>
+            <M_L3>Lower_Juba_Region</M_L3>
+            <M_L2>Somalia</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L4:option21</itextId>
+            <value>Badhadhe_District</value>
+            <M_L3>Lower_Juba_Region</M_L3>
+            <M_L2>Somalia</M_L2>
+          </item>
+          <item>
+            <itextId>/data/global1/M_L4:option22</itextId>
+            <value>Kamkunji</value>
+            <M_L3>Nairobi</M_L3>
+            <M_L2>Kenya</M_L2>
+          </item>
+        </root>
+      </instance>
+      <bind nodeset="/data/global1/M_L5" type="string" required="true()" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/global1/M_L6" type="string" required="true()" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/global1/M_L7" type="string" required="true()" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/global1/M_L8" type="string" required="true()" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/global1/M_L9" type="string" required="true()" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/global1/M_L10" type="string" required="true()" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_1" relevant="((/data/Consent = 'Y'))"/>
+      <bind nodeset="/data/M_1/M_1.1" type="select1" required="true()" relevant="((/data/Consent = 'Y')) and (/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_1/M_1.2" type="select1" required="true()" relevant="((/data/Consent = 'Y')) and (/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_1/M_1.3" type="select1" required="true()" relevant="((/data/Consent = 'Y')) and ((/data/Consent = 'Y'))"/>
+      <bind nodeset="/data/M_1/M_1.3.1" type="select1" required="true()" relevant="((/data/Consent = 'Y')) and (selected(/data/M_1/M_1.3, 'Y')) and ((/data/Consent = 'Y') or (/data/M_1/M_1.3='Y'))"/>
+      <bind nodeset="/data/M_1/M_1.4" type="select" required="true()" relevant="((/data/Consent = 'Y'))"/>
+      <bind nodeset="/data/M_1/M_1.4.1" type="string" relevant="((/data/Consent = 'Y')) and (selected(/data/M_1/M_1.4, '96')) and (/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_1/M_1.5" type="int" required="true()" relevant="((/data/Consent = 'Y')) and (/data/Consent = 'Y')" constraint="(. &gt; '1') and (. &lt; '70')" jr:constraintMsg="Value must be between 1 and 70"/>
+      <bind nodeset="/data/M_1/M_1.6" type="int" required="true()" relevant="((/data/Consent = 'Y')) and (/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_1/M_1.7" type="select1" required="true()" relevant="((/data/Consent = 'Y')) and ((/data/Consent = 'Y'))"/>
+      <bind nodeset="/data/M_1/M_1.7.1" type="select" required="true()" relevant="((/data/Consent = 'Y')) and (selected(/data/M_1/M_1.7, '1')) and ((/data/Consent = 'Y') or (/data/M_1/M_1.7 = '1'))" constraint="(count-selected(.) &gt;= '1') and (count-selected(.) &lt;= '6')" jr:constraintMsg="Must choose between 1 and 6 options"/>
+      <bind nodeset="/data/M_1/M_1.7.1.1" type="string" relevant="((/data/Consent = 'Y')) and (selected(/data/M_1/M_1.7.1, '96')) and (/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_1/M_1.7.2" type="select1" required="true()" relevant="((/data/Consent = 'Y')) and ((/data/Consent = 'Y') and (/data/M_1/M_1.7 = '1'))"/>
+      <bind nodeset="/data/M_1/M_1.8" type="select" required="true()" relevant="((/data/Consent = 'Y')) and ((/data/Consent = 'Y') and (/data/M_1/M_1.7 = '2'))" constraint="(count-selected(.) &gt;= '1') and (count-selected(.) &lt;= '6')" jr:constraintMsg="Must choose between 1 and 6 options"/>
+      <bind nodeset="/data/M_1/M_1.8.1" type="string" relevant="((/data/Consent = 'Y')) and (selected(/data/M_1/M_1.8, '96')) and (/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_1/M_1.9" type="select1" required="true()" relevant="((/data/Consent = 'Y')) and ((/data/Consent = 'Y'))"/>
+      <bind nodeset="/data/M_1/M_1.9.1" type="string" relevant="((/data/Consent = 'Y')) and (selected(/data/M_1/M_1.9, '96')) and ((/data/Consent = 'Y'))"/>
+      <bind nodeset="/data/M_2.0" relevant="((/data/Consent = 'Y'))"/>
+      <bind nodeset="/data/M_2.0/M_2.10" type="int" required="true()" relevant="((/data/Consent = 'Y'))" constraint="(. &gt;= '1') and (. &lt;= '50')" jr:constraintMsg="Value must be between 1 and 50"/>
+      <bind nodeset="/data/M_2.1" relevant="((/data/Consent = 'Y') and (/data/M_2.0/M_2.10 &gt;= 1))"/>
+      <bind nodeset="/data/M_2.1/M_2.10.0.1" type="string" required="true()" relevant="((/data/Consent = 'Y') and (/data/M_2.0/M_2.10 &gt;= 1))"/>
+      <bind nodeset="/data/M_2.1/M_2.10.0.2" type="int" required="true()" relevant="((/data/Consent = 'Y') and (/data/M_2.0/M_2.10 &gt;= 1))" constraint="(. &gt;= '1') and (. &lt;= '50')" jr:constraintMsg="Value must be between 1 and 50"/>
+      <bind nodeset="/data/M_2.1/M_2.10.0.3" type="string" required="true()" relevant="((/data/Consent = 'Y') and (/data/M_2.0/M_2.10 &gt;= 1))"/>
+      <bind nodeset="/data/M_2.2" relevant="((/data/Consent = 'Y'))"/>
+      <bind nodeset="/data/M_2.2/M_2.11" type="select1" required="true()" relevant="((/data/Consent = 'Y'))"/>
+      <bind nodeset="/data/M_2.2/M_2.12" type="date" required="true()" relevant="((/data/Consent = 'Y'))" jr:constraintMsg="jr:itext('/data/M_2.2/M_2.12:constraintMsg')"/>
+      <bind nodeset="/data/M_2.2/M_2.12.1" type="select1" relevant="((/data/Consent = 'Y'))"/>
+      <bind nodeset="/data/M_2.2/M_2.12.2" type="select1" relevant="((/data/Consent = 'Y')) and ((/data/M_2.2/M_2.12.1 = '1'))"/>
+      <bind nodeset="/data/M_2.2/M_2.12.1.1" type="select1" relevant="((/data/Consent = 'Y')) and ((/data/M_2.2/M_2.12.2 = '2'))"/>
+      <bind nodeset="/data/M_2.2/M_2.12.2.1" type="select1" relevant="((/data/Consent = 'Y')) and ((/data/M_2.2/M_2.12.1.1 = '1'))"/>
+      <bind nodeset="/data/M_2.2/M_2.13" type="select" required="true()" relevant="((/data/Consent = 'Y')) and ((/data/M_2.2/M_2.12.1 = '2') or (/data/M_2.2/M_2.12.1 = '98') or (/data/M_2.2/M_2.12.1.1 = '2') or (/data/M_2.2/M_2.12.1.1 = '98') or (/data/M_2.2/M_2.12.2.1 = '2'))" constraint="(count-selected(.) &gt;= '1') and (count-selected(.) &lt;= '10')" jr:constraintMsg="Must choose between 1 and 10 options"/>
+      <bind nodeset="/data/M_2.2/M_2.13.0.2" type="string" relevant="((/data/Consent = 'Y')) and (selected(/data/M_2.2/M_2.13, '96'))"/>
+      <bind nodeset="/data/M_2.2/M_2.14" type="select1" required="true()" relevant="((/data/Consent = 'Y')) and ((/data/M_2.2/M_2.12.2 ='1') or (/data/M_2.2/M_2.12.2.1 ='1'))"/>
+      <bind nodeset="/data/M_2.2/M_2.14.0.2" type="int" relevant="((/data/Consent = 'Y')) and (selected(/data/M_2.2/M_2.14, '1')) and ((/data/M_2.2/M_2.14 ='1'))"/>
+      <bind nodeset="/data/M_2.2/M_2.15" type="select1" required="true()" relevant="((/data/Consent = 'Y'))"/>
+      <bind nodeset="/data/M_2.2/M_2.15.1" type="select1" required="true()" relevant="((/data/Consent = 'Y'))"/>
+      <bind nodeset="/data/M_2.2/M_2.15.2" type="binary" relevant="((/data/Consent = 'Y')) and ((/data/M_2.2/M_2.15.1 ='1'))"/>
+      <bind nodeset="/data/M_2.2/M_2.16" type="select1" required="true()" relevant="((/data/Consent = 'Y'))"/>
+      <bind nodeset="/data/M_2.2/M_2.16.1" type="string" relevant="((/data/Consent = 'Y')) and (selected(/data/M_2.2/M_2.16, '96'))"/>
+      <bind nodeset="/data/M_2.2/M_2.17" type="select1" required="true()" relevant="((/data/Consent = 'Y'))"/>
+      <bind nodeset="/data/M_2.2/M_2.17.1" type="select" relevant="((/data/Consent = 'Y')) and ((/data/M_2.2/M_2.17 = '1'))"/>
+      <bind nodeset="/data/M_2.2/M_2.17.1.1" type="string" relevant="((/data/Consent = 'Y')) and (selected(/data/M_2.2/M_2.17.1, '96'))"/>
+      <bind nodeset="/data/M_3" relevant="((/data/Consent = 'Y'))"/>
+      <bind nodeset="/data/M_3/M_3.18" type="int" required="true()" relevant="((/data/Consent = 'Y')) and ((/data/M_2.2/M_2.17 = '2'))" constraint="(. &gt;= '1') and (. &lt;= '100')" jr:constraintMsg="Value must be between 1 and 100"/>
+      <bind nodeset="/data/M_3/M_3.19" type="select1" required="true()" relevant="((/data/Consent = 'Y'))"/>
+      <bind nodeset="/data/M_3/M_3.20" type="select1" required="true()" relevant="((/data/Consent = 'Y'))"/>
+      <bind nodeset="/data/M_3/M_3.20.1" type="select" relevant="((/data/Consent = 'Y')) and ((/data/M_3/M_3.20 ='2') or (/data/M_3/M_3.20 ='98'))"/>
+      <bind nodeset="/data/M_3/M_3.20.1.1" type="string" relevant="((/data/Consent = 'Y')) and (selected(/data/M_3/M_3.20.1, '96'))"/>
+      <bind nodeset="/data/M_4" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_4/M_4.21" type="int" relevant="(/data/Consent = 'Y') and ((/data/M_3/M_3.20 = '1'))" constraint="(. &gt;= '1') and (. &lt;= '100')" jr:constraintMsg="Value must be between 1 and 100"/>
+      <bind nodeset="/data/M_4/M_4.1/M_4.1.1" type="string" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_4/M_4.1/M_4.1.2" type="date" required="true()" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_4/M_4.1/M_4.1.3" type="int" required="true()" relevant="(/data/Consent = 'Y')" constraint="(. &gt;= '12') and (. &lt;= '23')" jr:constraintMsg="Value must be between 12 and 23"/>
+      <bind nodeset="/data/M_4/M_4.1/M_4.1.4" type="select1" required="true()" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_4/M_4.22" type="select1" required="true()" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_4/M_4.23" type="select1" relevant="(/data/Consent = 'Y') and ((/data/M_4/M_4.22 = '3'))"/>
+      <bind nodeset="/data/M_4/Vaccine_Card_Photo" type="binary" relevant="(/data/Consent = 'Y') and ((/data/M_4/M_4.22 = '1'))"/>
+      <bind nodeset="/data/M_4/M_4.24" relevant="(/data/Consent = 'Y') and ((/data/M_4/M_4.22 = '1'))"/>
+      <bind nodeset="/data/M_4/M_4.24/M_4.24.1" type="date" relevant="(/data/Consent = 'Y') and ((/data/M_4/M_4.22 = '1'))"/>
+      <bind nodeset="/data/M_4/M_4.24/M_4.24.2" type="date" relevant="(/data/Consent = 'Y') and ((/data/M_4/M_4.22 = '1'))"/>
+      <bind nodeset="/data/M_4/M_4.24/M_4.24.3" type="date" relevant="(/data/Consent = 'Y') and ((/data/M_4/M_4.22 = '1'))"/>
+      <bind nodeset="/data/M_4/M_4.24/M_4.24.4" type="date" relevant="(/data/Consent = 'Y') and ((/data/M_4/M_4.22 = '1'))"/>
+      <bind nodeset="/data/M_4/M_4.24/M_4.24.5" type="date" relevant="(/data/Consent = 'Y') and ((/data/M_4/M_4.22 = '1'))"/>
+      <bind nodeset="/data/M_4/M_4.24/M_4.24.6" type="date" relevant="(/data/Consent = 'Y') and ((/data/M_4/M_4.22 = '1'))"/>
+      <bind nodeset="/data/M_4/M_4.24/M_4.24.7" type="date" relevant="(/data/Consent = 'Y') and ((/data/M_4/M_4.22 = '1'))"/>
+      <bind nodeset="/data/M_4/M_4.24/M_4.24.8" type="date" relevant="(/data/Consent = 'Y') and ((/data/M_4/M_4.22 = '1'))"/>
+      <bind nodeset="/data/M_4/M_4.24/M_4.24.9" type="date" relevant="(/data/Consent = 'Y') and ((/data/M_4/M_4.22 = '1'))"/>
+      <bind nodeset="/data/M_4/M_4.25" type="select1" relevant="(/data/Consent = 'Y') and ((/data/M_4/M_4.22 = '1'))"/>
+      <bind nodeset="/data/M_4/M_4.26" type="select1" relevant="(/data/Consent = 'Y') and ((/data/M_4/M_4.22 = '2') or (/data/M_4/M_4.23 = '1') or (/data/M_4/M_4.23 = '2') or (/data/M_4/M_4.23 = '98') )"/>
+      <bind nodeset="/data/M_4/M_4.27" type="select1" relevant="(/data/Consent = 'Y') and ((/data/M_4/M_4.25 = '1') or (/data/M_4/M_4.26 = '1'))"/>
+      <bind nodeset="/data/M_4/M_4.28" type="select1" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_4/M_4.28.1" type="select1" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_4/M_4.28.2" type="int" relevant="(/data/Consent = 'Y')" constraint="(. &gt;= '1') and (. &lt;= '20')" jr:constraintMsg="Value must be between 1 and 20"/>
+      <bind nodeset="/data/M_4/M_4.29" type="select1" relevant="(/data/Consent = 'Y') and ((/data/M_4/M_4.28 = '2') or (/data/M_4/M_4.28 = '98'))"/>
+      <bind nodeset="/data/M_4/M_4.29.1" type="int" relevant="(/data/Consent = 'Y') and ((/data/M_4/M_4.29 = '1'))" constraint="(. &gt;= '1') and (. &lt;= '10')" jr:constraintMsg="Value must be between 1 and 10"/>
+      <bind nodeset="/data/M_4/M_4.30" type="select1" relevant="(/data/Consent = 'Y') and ((/data/M_4/M_4.29 = '2') or (/data/M_4/M_4.29 = '98'))"/>
+      <bind nodeset="/data/M_4/M_4.31" type="select1" relevant="(/data/Consent = 'Y') and ((/data/M_4/M_4.25 = '2') or (/data/M_4/M_4.25 = '98') or (/data/M_4/M_4.26 = '2') or (/data/M_4/M_4.26 = '98'))"/>
+      <bind nodeset="/data/M_4/M_4.31.1" type="select" required="true()" relevant="(/data/Consent = 'Y')" constraint="(count-selected(.) &gt;= '1') and (count-selected(.) &lt;= '10')" jr:constraintMsg="Must choose between 1 and 10 options"/>
+      <bind nodeset="/data/M_4/M_4.31.1.1" type="string" relevant="(/data/Consent = 'Y') and (selected(/data/M_4/M_4.31.1, '96'))"/>
+      <bind nodeset="/data/M_5" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_5/M_5.32" type="select1" required="true()" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_5/M_5.32.0.1" type="string" relevant="(/data/Consent = 'Y') and (selected(/data/M_5/M_5.32, '96'))"/>
+      <bind nodeset="/data/M_5/M_5.32.0.2" type="int" relevant="(/data/Consent = 'Y') and ((/data/M_5/M_5.32 = '1'))"/>
+      <bind nodeset="/data/M_5/M_5.32.1" type="select1" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_5/M_5.32.1.1" type="string" relevant="(/data/Consent = 'Y') and (selected(/data/M_5/M_5.32.1, '96'))"/>
+      <bind nodeset="/data/M_5/M_5.32.1.2" type="int" relevant="(/data/Consent = 'Y') and ((/data/M_5/M_5.32.1='1'))"/>
+      <bind nodeset="/data/M_5/M_5.33" type="select" required="true()" relevant="(/data/Consent = 'Y')" constraint="(count-selected(.) &gt;= '1') and (count-selected(.) &lt;= '7')" jr:constraintMsg="Must choose between 1 and 7 options"/>
+      <bind nodeset="/data/M_5/M_5.33.0.1" type="string" relevant="(/data/Consent = 'Y') and (selected(/data/M_5/M_5.33, '96'))"/>
+      <bind nodeset="/data/M_5/M_5.33.1" type="select" required="true()" relevant="(/data/Consent = 'Y')" constraint="(count-selected(.) &gt;= '1') and (count-selected(.) &lt;= '7')" jr:constraintMsg="Must choose between 1 and 7 options"/>
+      <bind nodeset="/data/M_5/M_5.33.1.1" type="string" relevant="(/data/Consent = 'Y') and (selected(/data/M_5/M_5.33.1, '96'))"/>
+      <bind nodeset="/data/M_5/M_5.34" type="select1" required="true()" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_5/M_5.34.1" type="select1" required="true()" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_5/M_5.34.1.1" type="string" relevant="(/data/Consent = 'Y') and (selected(/data/M_5/M_5.34.1, '96'))"/>
+      <bind nodeset="/data/M_5/M_5.34.1.2" type="int" relevant="(/data/Consent = 'Y') and ((/data/M_5/M_5.34.1='1'))"/>
+      <bind nodeset="/data/M_5/M_5.35" type="select" required="true()" relevant="(/data/Consent = 'Y')" constraint="(count-selected(.) &gt;= '1') and (count-selected(.) &lt;= '8')" jr:constraintMsg="Must choose between 1 and 8 options"/>
+      <bind nodeset="/data/M_5/M_5.35.0.1" type="string" relevant="(/data/Consent = 'Y') and (selected(/data/M_5/M_5.35, '96'))"/>
+      <bind nodeset="/data/M_5/M_5.36" type="select" required="true()" relevant="(/data/Consent = 'Y')" constraint="(count-selected(.) &gt;= '1') and (count-selected(.) &lt;= '10')" jr:constraintMsg="Must choose between 1 and 10 options"/>
+      <bind nodeset="/data/M_5/M_5.36.0.1" type="string" relevant="(/data/Consent = 'Y') and (selected(/data/M_5/M_5.36, '96'))"/>
+      <bind nodeset="/data/M_5/M_5.37" type="select" required="true()" relevant="(/data/Consent = 'Y')" constraint="(count-selected(.) &gt;= '1') and (count-selected(.) &lt;= '7')" jr:constraintMsg="Must choose between 1 and 7 options"/>
+      <bind nodeset="/data/M_5/M_5.37.0.1" type="string" relevant="(/data/Consent = 'Y') and (selected(/data/M_5/M_5.37, '96'))"/>
+      <bind nodeset="/data/M_5/M_5.38" type="select1" required="true()" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_5/M_5.38.0.1" type="string" relevant="(/data/Consent = 'Y') and (selected(/data/M_5/M_5.38, '96'))"/>
+      <bind nodeset="/data/M_5/M_5.38.1" type="select1" required="true()" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_5/M_5.39" type="select" required="true()" relevant="(/data/Consent = 'Y')" constraint="(count-selected(.) &gt;= '1') and (count-selected(.) &lt;= '7')" jr:constraintMsg="Must choose between 1 and 7 options"/>
+      <bind nodeset="/data/M_5/M_5.39.0.1" type="string" relevant="(/data/Consent = 'Y') and (selected(/data/M_5/M_5.39, '96'))"/>
+      <bind nodeset="/data/M_5/M_5.40" type="select" required="true()" relevant="(/data/Consent = 'Y')" constraint="(count-selected(.) &gt;= '1') and (count-selected(.) &lt;= '10')" jr:constraintMsg="Must choose between 1 and 10 options"/>
+      <bind nodeset="/data/M_5/M_5.40.0.1" type="string" relevant="(/data/Consent = 'Y') and (selected(/data/M_5/M_5.40, '96'))"/>
+      <bind nodeset="/data/M_5/M_5.41" type="select" required="true()" relevant="(/data/Consent = 'Y')" constraint="(count-selected(.) &gt;= '1') and (count-selected(.) &lt;= '8')" jr:constraintMsg="Must choose between 1 and 8 options"/>
+      <bind nodeset="/data/M_5/M_5.41.0.1" type="string" relevant="(/data/Consent = 'Y') and (selected(/data/M_5/M_5.41, '96'))"/>
+      <bind nodeset="/data/M_6" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_6/M_6.42" type="select1" required="true()" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_6/M_6.42.1" type="select" relevant="(/data/Consent = 'Y') and ((/data/M_6/M_6.42 = '1'))" constraint="(count-selected(.) &gt;= '1') and (count-selected(.) &lt;= '7')" jr:constraintMsg="Must choose between 1 and 7 options"/>
+      <bind nodeset="/data/M_6/M_6.42.1.1" type="string" relevant="(/data/Consent = 'Y') and (selected(/data/M_6/M_6.42.1, '96'))"/>
+      <bind nodeset="/data/M_6/M_6.43" type="select" relevant="(/data/Consent = 'Y') and ((/data/M_6/M_6.42 ='2') or (/data/M_6/M_6.42 = '98'))" constraint="(count-selected(.) &gt;= '1') and (count-selected(.) &lt;= '8')" jr:constraintMsg="Must choose between 1 and 8 options"/>
+      <bind nodeset="/data/M_6/M_6.43.0.1" type="string" relevant="(/data/Consent = 'Y') and (selected(/data/M_6/M_6.43, '96'))"/>
+      <bind nodeset="/data/M_7" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_7/M_7.44" type="select1" required="true()" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_7/M_7.44.1" type="string" relevant="(/data/Consent = 'Y') and (selected(/data/M_7/M_7.44, '1')) and (/data/M_7.44 ='1')"/>
+      <bind nodeset="/data/M_7/M_7.45" type="select1" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_7/M_7.45.1" type="select" relevant="(/data/Consent = 'Y') and ((/data/M_7/M_7.45 = '1'))"/>
+      <bind nodeset="/data/M_7/M_7.45.1.1" type="string" relevant="(/data/Consent = 'Y') and (selected(/data/M_7/M_7.45.1, '96'))"/>
+      <bind nodeset="/data/M_7/M_7.46" type="select1" relevant="(/data/Consent = 'Y') and ((/data/M_7/M_7.45 ='2') or (/data/M_7/M_7.45 ='98'))"/>
+      <bind nodeset="/data/M_7/M_7.46.1" type="select" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_7/M_7.46.1.1" type="string" relevant="(/data/Consent = 'Y') and (selected(/data/M_7/M_7.46.1, '96')) and ((/data/M_7/M_7.46 ='1'))"/>
+      <bind nodeset="/data/M_8" relevant="(/data/Consent = 'Y')"/>
+      <bind nodeset="/data/M_8/M_8.47" type="select1" relevant="(/data/Consent = 'Y') and ((/data/M_7/M_7.46 ='2') or (/data/M_7/M_7.46 ='98'))"/>
+      <bind nodeset="/data/M_8/M_8.47.1" type="select1" relevant="(/data/Consent = 'Y') and ((/data/M_8/M_8.47 ='1'))"/>
+      <bind nodeset="/data/M_8/M_8.47.2" type="select" relevant="(/data/Consent = 'Y') and ((/data/M_8/M_8.47 ='1'))" constraint="(count-selected(.) &gt;= '1') and (count-selected(.) &lt;= '9')" jr:constraintMsg="Must choose between 1 and 9 options"/>
+      <bind nodeset="/data/M_8/M_8.47.2.1" type="string" relevant="(/data/Consent = 'Y') and (selected(/data/M_8/M_8.47.2, '96'))"/>
+      <bind nodeset="/data/M_8/M_8.48" type="select1" relevant="(/data/Consent = 'Y') and ((/data/M_8/M_8.47 ='2') or (/data/M_8/M_8.47 ='98'))"/>
+      <bind nodeset="/data/M_8/M_8.48.0.1" type="select1" relevant="(/data/Consent = 'Y') and ((/data/M_8/M_8.48 ='1'))"/>
+      <bind nodeset="/data/Conclusion" type="string" readonly="true()" relevant="((/data/M_8/M_8.48 ='2') or (/data/M_8/M_8.48 ='98'))"/>
+      <bind nodeset="/data/Conclusion2" type="string" readonly="true()" relevant="(/data/Consent = 'N')"/>
+      <bind nodeset="/data/Endtime" type="dateTime" jr:preload="timestamp" jr:preloadParams="end"/>
+    </model>
+  </h:head>
+  <h:body>
+    <input ref="/data/Intro">
+      <label ref="jr:itext('/data/Intro:label')"/>
+      <hint ref="jr:itext('/data/Intro:hint')"/>
+    </input>
+    <select1 ref="/data/Consent">
+      <label ref="jr:itext('/data/Consent:label')"/>
+      <hint ref="jr:itext('/data/Consent:hint')"/>
+      <item>
+        <label ref="jr:itext('/data/Consent:option0')"/>
+        <value>Y</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/Consent:option1')"/>
+        <value>N</value>
+      </item>
+    </select1>
+    <input ref="/data/respName">
+      <label ref="jr:itext('/data/respName:label')"/>
+      <hint ref="jr:itext('/data/respName:hint')"/>
+    </input>
+    <upload ref="/data/audioRecording" mediatype="audio/*">
+      <label ref="jr:itext('/data/audioRecording:label')"/>
+      <hint ref="jr:itext('/data/audioRecording:hint')"/>
+    </upload>
+    <upload ref="/data/respPic" mediatype="image/*">
+      <label ref="jr:itext('/data/respPic:label')"/>
+      <hint ref="jr:itext('/data/respPic:hint')"/>
+    </upload>
+    <select1 ref="/data/chilRship">
+      <label ref="jr:itext('/data/chilRship:label')"/>
+      <hint ref="jr:itext('/data/chilRship:hint')"/>
+      <item>
+        <label ref="jr:itext('/data/chilRship:option0')"/>
+        <value>Mother</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/chilRship:option1')"/>
+        <value>Aunt</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/chilRship:option2')"/>
+        <value>Grandmother</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/chilRship:option3')"/>
+        <value>Other</value>
+      </item>
+    </select1>
+    <input ref="/data/otherRship">
+      <label ref="jr:itext('/data/otherRship:label')"/>
+      <hint ref="jr:itext('/data/otherRship:hint')"/>
+    </input>
+    <input ref="/data/Cluster_ID">
+      <label ref="jr:itext('/data/Cluster_ID:label')"/>
+    </input>
+    <input ref="/data/Questionnaire_ID">
+      <label ref="jr:itext('/data/Questionnaire_ID:label')"/>
+    </input>
+    <input ref="/data/interview_date_ID">
+      <label ref="jr:itext('/data/interview_date_ID:label')"/>
+      <hint ref="jr:itext('/data/interview_date_ID:hint')"/>
+    </input>
+    <input ref="/data/GPS_point">
+      <label ref="jr:itext('/data/GPS_point:label')"/>
+    </input>
+    <group>
+      <label ref="jr:itext('/data/global1:label')"/>
+      <select1 ref="/data/global1/M_L2">
+        <label ref="jr:itext('/data/global1/M_L2:label')"/>
+        <hint ref="jr:itext('/data/global1/M_L2:hint')"/>
+        <itemset nodeset="instance('choices_global1-M-L2')/root/item">
+          <value ref="value"/>
+          <label ref="jr:itext(itextId)"/>
+        </itemset>
+      </select1>
+      <select1 ref="/data/global1/M_L3">
+        <label ref="jr:itext('/data/global1/M_L3:label')"/>
+        <hint ref="jr:itext('/data/global1/M_L3:hint')"/>
+        <itemset nodeset="instance('choices_global1-M-L3')/root/item[M_L2=/data/global1/M_L2]">
+          <value ref="value"/>
+          <label ref="jr:itext(itextId)"/>
+        </itemset>
+      </select1>
+      <select1 ref="/data/global1/M_L4">
+        <label ref="jr:itext('/data/global1/M_L4:label')"/>
+        <hint ref="jr:itext('/data/global1/M_L4:hint')"/>
+        <itemset nodeset="instance('choices_global1-M-L4')/root/item[M_L3=/data/global1/M_L3 and M_L2=/data/global1/M_L2]">
+          <value ref="value"/>
+          <label ref="jr:itext(itextId)"/>
+        </itemset>
+      </select1>
+      <input ref="/data/global1/M_L5">
+        <label ref="jr:itext('/data/global1/M_L5:label')"/>
+        <hint ref="jr:itext('/data/global1/M_L5:hint')"/>
+      </input>
+      <input ref="/data/global1/M_L6">
+        <label ref="jr:itext('/data/global1/M_L6:label')"/>
+        <hint ref="jr:itext('/data/global1/M_L6:hint')"/>
+      </input>
+      <input ref="/data/global1/M_L7">
+        <label ref="jr:itext('/data/global1/M_L7:label')"/>
+        <hint ref="jr:itext('/data/global1/M_L7:hint')"/>
+      </input>
+      <input ref="/data/global1/M_L8">
+        <label ref="jr:itext('/data/global1/M_L8:label')"/>
+        <hint ref="jr:itext('/data/global1/M_L8:hint')"/>
+      </input>
+      <input ref="/data/global1/M_L9">
+        <label ref="jr:itext('/data/global1/M_L9:label')"/>
+        <hint ref="jr:itext('/data/global1/M_L9:hint')"/>
+      </input>
+      <input ref="/data/global1/M_L10">
+        <label ref="jr:itext('/data/global1/M_L10:label')"/>
+        <hint ref="jr:itext('/data/global1/M_L10:hint')"/>
+      </input>
+    </group>
+    <group>
+      <label ref="jr:itext('/data/M_1:label')"/>
+      <select1 ref="/data/M_1/M_1.1">
+        <label ref="jr:itext('/data/M_1/M_1.1:label')"/>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.1:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.1:option1')"/>
+          <value>2</value>
+        </item>
+      </select1>
+      <select1 ref="/data/M_1/M_1.2">
+        <label ref="jr:itext('/data/M_1/M_1.2:label')"/>
+        <hint ref="jr:itext('/data/M_1/M_1.2:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.2:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.2:option1')"/>
+          <value>2</value>
+        </item>
+      </select1>
+      <select1 ref="/data/M_1/M_1.3">
+        <label ref="jr:itext('/data/M_1/M_1.3:label')"/>
+        <hint ref="jr:itext('/data/M_1/M_1.3:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.3:option0')"/>
+          <value>Y</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.3:option1')"/>
+          <value>N</value>
+        </item>
+      </select1>
+      <select1 ref="/data/M_1/M_1.3.1">
+        <label ref="jr:itext('/data/M_1/M_1.3.1:label')"/>
+        <hint ref="jr:itext('/data/M_1/M_1.3.1:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.3.1:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.3.1:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.3.1:option2')"/>
+          <value>3</value>
+        </item>
+      </select1>
+      <select ref="/data/M_1/M_1.4">
+        <label ref="jr:itext('/data/M_1/M_1.4:label')"/>
+        <hint ref="jr:itext('/data/M_1/M_1.4:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.4:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.4:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.4:option2')"/>
+          <value>96</value>
+        </item>
+      </select>
+      <input ref="/data/M_1/M_1.4.1">
+        <label ref="jr:itext('/data/M_1/M_1.4.1:label')"/>
+        <hint ref="jr:itext('/data/M_1/M_1.4.1:hint')"/>
+      </input>
+      <input ref="/data/M_1/M_1.5">
+        <label ref="jr:itext('/data/M_1/M_1.5:label')"/>
+        <hint ref="jr:itext('/data/M_1/M_1.5:hint')"/>
+      </input>
+      <input ref="/data/M_1/M_1.6">
+        <label ref="jr:itext('/data/M_1/M_1.6:label')"/>
+        <hint ref="jr:itext('/data/M_1/M_1.6:hint')"/>
+      </input>
+      <select1 ref="/data/M_1/M_1.7">
+        <label ref="jr:itext('/data/M_1/M_1.7:label')"/>
+        <hint ref="jr:itext('/data/M_1/M_1.7:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.7:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.7:option1')"/>
+          <value>2</value>
+        </item>
+      </select1>
+      <select ref="/data/M_1/M_1.7.1">
+        <label ref="jr:itext('/data/M_1/M_1.7.1:label')"/>
+        <hint ref="jr:itext('/data/M_1/M_1.7.1:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.7.1:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.7.1:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.7.1:option2')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.7.1:option3')"/>
+          <value>4</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.7.1:option4')"/>
+          <value>5</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.7.1:option5')"/>
+          <value>96</value>
+        </item>
+      </select>
+      <input ref="/data/M_1/M_1.7.1.1">
+        <label ref="jr:itext('/data/M_1/M_1.7.1.1:label')"/>
+        <hint ref="jr:itext('/data/M_1/M_1.7.1.1:hint')"/>
+      </input>
+      <select1 ref="/data/M_1/M_1.7.2">
+        <label ref="jr:itext('/data/M_1/M_1.7.2:label')"/>
+        <hint ref="jr:itext('/data/M_1/M_1.7.2:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.7.2:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.7.2:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.7.2:option2')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.7.2:option3')"/>
+          <value>4</value>
+        </item>
+      </select1>
+      <select ref="/data/M_1/M_1.8">
+        <label ref="jr:itext('/data/M_1/M_1.8:label')"/>
+        <hint ref="jr:itext('/data/M_1/M_1.8:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.8:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.8:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.8:option2')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.8:option3')"/>
+          <value>4</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.8:option4')"/>
+          <value>5</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.8:option5')"/>
+          <value>96</value>
+        </item>
+      </select>
+      <input ref="/data/M_1/M_1.8.1">
+        <label ref="jr:itext('/data/M_1/M_1.8.1:label')"/>
+        <hint ref="jr:itext('/data/M_1/M_1.8.1:hint')"/>
+      </input>
+      <select1 ref="/data/M_1/M_1.9">
+        <label ref="jr:itext('/data/M_1/M_1.9:label')"/>
+        <hint ref="jr:itext('/data/M_1/M_1.9:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.9:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.9:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.9:option2')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.9:option3')"/>
+          <value>4</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_1/M_1.9:option4')"/>
+          <value>96</value>
+        </item>
+      </select1>
+      <input ref="/data/M_1/M_1.9.1">
+        <label ref="jr:itext('/data/M_1/M_1.9.1:label')"/>
+        <hint ref="jr:itext('/data/M_1/M_1.9.1:hint')"/>
+      </input>
+    </group>
+    <group>
+      <label ref="jr:itext('/data/M_2.0:label')"/>
+      <input ref="/data/M_2.0/M_2.10">
+        <label ref="jr:itext('/data/M_2.0/M_2.10:label')"/>
+        <hint ref="jr:itext('/data/M_2.0/M_2.10:hint')"/>
+      </input>
+    </group>
+    <group>
+      <label ref="jr:itext('/data/M_2.1:label')"/>
+      <repeat nodeset="/data/M_2.1">
+        <input ref="/data/M_2.1/M_2.10.0.1">
+          <label ref="jr:itext('/data/M_2.1/M_2.10.0.1:label')"/>
+          <hint ref="jr:itext('/data/M_2.1/M_2.10.0.1:hint')"/>
+        </input>
+        <input ref="/data/M_2.1/M_2.10.0.2">
+          <label ref="jr:itext('/data/M_2.1/M_2.10.0.2:label')"/>
+          <hint ref="jr:itext('/data/M_2.1/M_2.10.0.2:hint')"/>
+        </input>
+        <input ref="/data/M_2.1/M_2.10.0.3">
+          <label ref="jr:itext('/data/M_2.1/M_2.10.0.3:label')"/>
+          <hint ref="jr:itext('/data/M_2.1/M_2.10.0.3:hint')"/>
+        </input>
+      </repeat>
+    </group>
+    <group>
+      <label ref="jr:itext('/data/M_2.2:label')"/>
+      <select1 ref="/data/M_2.2/M_2.11">
+        <label ref="jr:itext('/data/M_2.2/M_2.11:label')"/>
+        <hint ref="jr:itext('/data/M_2.2/M_2.11:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.11:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.11:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.11:option2')"/>
+          <value>98</value>
+        </item>
+      </select1>
+      <input ref="/data/M_2.2/M_2.12">
+        <label ref="jr:itext('/data/M_2.2/M_2.12:label')"/>
+        <hint ref="jr:itext('/data/M_2.2/M_2.12:hint')"/>
+      </input>
+      <select1 ref="/data/M_2.2/M_2.12.1">
+        <label ref="jr:itext('/data/M_2.2/M_2.12.1:label')"/>
+        <hint ref="jr:itext('/data/M_2.2/M_2.12.1:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.12.1:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.12.1:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.12.1:option2')"/>
+          <value>98</value>
+        </item>
+      </select1>
+      <select1 ref="/data/M_2.2/M_2.12.2">
+        <label ref="jr:itext('/data/M_2.2/M_2.12.2:label')"/>
+        <hint ref="jr:itext('/data/M_2.2/M_2.12.2:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.12.2:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.12.2:option1')"/>
+          <value>2</value>
+        </item>
+      </select1>
+      <select1 ref="/data/M_2.2/M_2.12.1.1">
+        <label ref="jr:itext('/data/M_2.2/M_2.12.1.1:label')"/>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.12.1.1:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.12.1.1:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.12.1.1:option2')"/>
+          <value>98</value>
+        </item>
+      </select1>
+      <select1 ref="/data/M_2.2/M_2.12.2.1">
+        <label ref="jr:itext('/data/M_2.2/M_2.12.2.1:label')"/>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.12.2.1:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.12.2.1:option1')"/>
+          <value>2</value>
+        </item>
+      </select1>
+      <select ref="/data/M_2.2/M_2.13">
+        <label ref="jr:itext('/data/M_2.2/M_2.13:label')"/>
+        <hint ref="jr:itext('/data/M_2.2/M_2.13:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.13:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.13:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.13:option2')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.13:option3')"/>
+          <value>4</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.13:option4')"/>
+          <value>5</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.13:option5')"/>
+          <value>6</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.13:option6')"/>
+          <value>7</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.13:option7')"/>
+          <value>8</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.13:option8')"/>
+          <value>9</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.13:option9')"/>
+          <value>96</value>
+        </item>
+      </select>
+      <input ref="/data/M_2.2/M_2.13.0.2">
+        <label ref="jr:itext('/data/M_2.2/M_2.13.0.2:label')"/>
+        <hint ref="jr:itext('/data/M_2.2/M_2.13.0.2:hint')"/>
+      </input>
+      <select1 ref="/data/M_2.2/M_2.14">
+        <label ref="jr:itext('/data/M_2.2/M_2.14:label')"/>
+        <hint ref="jr:itext('/data/M_2.2/M_2.14:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.14:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.14:option1')"/>
+          <value>98</value>
+        </item>
+      </select1>
+      <input ref="/data/M_2.2/M_2.14.0.2">
+        <label ref="jr:itext('/data/M_2.2/M_2.14.0.2:label')"/>
+        <hint ref="jr:itext('/data/M_2.2/M_2.14.0.2:hint')"/>
+      </input>
+      <select1 ref="/data/M_2.2/M_2.15">
+        <label ref="jr:itext('/data/M_2.2/M_2.15:label')"/>
+        <hint ref="jr:itext('/data/M_2.2/M_2.15:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.15:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.15:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.15:option2')"/>
+          <value>98</value>
+        </item>
+      </select1>
+      <select1 ref="/data/M_2.2/M_2.15.1">
+        <label ref="jr:itext('/data/M_2.2/M_2.15.1:label')"/>
+        <hint ref="jr:itext('/data/M_2.2/M_2.15.1:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.15.1:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.15.1:option1')"/>
+          <value>2</value>
+        </item>
+      </select1>
+      <upload ref="/data/M_2.2/M_2.15.2" mediatype="image/*">
+        <label ref="jr:itext('/data/M_2.2/M_2.15.2:label')"/>
+        <hint ref="jr:itext('/data/M_2.2/M_2.15.2:hint')"/>
+      </upload>
+      <select1 ref="/data/M_2.2/M_2.16">
+        <label ref="jr:itext('/data/M_2.2/M_2.16:label')"/>
+        <hint ref="jr:itext('/data/M_2.2/M_2.16:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.16:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.16:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.16:option2')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.16:option3')"/>
+          <value>4</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.16:option4')"/>
+          <value>5</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.16:option5')"/>
+          <value>6</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.16:option6')"/>
+          <value>7</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.16:option7')"/>
+          <value>96</value>
+        </item>
+      </select1>
+      <input ref="/data/M_2.2/M_2.16.1">
+        <label ref="jr:itext('/data/M_2.2/M_2.16.1:label')"/>
+        <hint ref="jr:itext('/data/M_2.2/M_2.16.1:hint')"/>
+      </input>
+      <select1 ref="/data/M_2.2/M_2.17">
+        <label ref="jr:itext('/data/M_2.2/M_2.17:label')"/>
+        <hint ref="jr:itext('/data/M_2.2/M_2.17:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.17:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.17:option1')"/>
+          <value>2</value>
+        </item>
+      </select1>
+      <select ref="/data/M_2.2/M_2.17.1">
+        <label ref="jr:itext('/data/M_2.2/M_2.17.1:label')"/>
+        <hint ref="jr:itext('/data/M_2.2/M_2.17.1:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.17.1:option0')"/>
+          <value>0</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.17.1:option1')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.17.1:option2')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.17.1:option3')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.17.1:option4')"/>
+          <value>4</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.17.1:option5')"/>
+          <value>5</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.17.1:option6')"/>
+          <value>6</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.17.1:option7')"/>
+          <value>7</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.17.1:option8')"/>
+          <value>8</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.17.1:option9')"/>
+          <value>9</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.17.1:option10')"/>
+          <value>10</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_2.2/M_2.17.1:option11')"/>
+          <value>96</value>
+        </item>
+      </select>
+      <input ref="/data/M_2.2/M_2.17.1.1">
+        <label ref="jr:itext('/data/M_2.2/M_2.17.1.1:label')"/>
+        <hint ref="jr:itext('/data/M_2.2/M_2.17.1.1:hint')"/>
+      </input>
+    </group>
+    <group>
+      <label ref="jr:itext('/data/M_3:label')"/>
+      <input ref="/data/M_3/M_3.18">
+        <label ref="jr:itext('/data/M_3/M_3.18:label')"/>
+        <hint ref="jr:itext('/data/M_3/M_3.18:hint')"/>
+      </input>
+      <select1 ref="/data/M_3/M_3.19">
+        <label ref="jr:itext('/data/M_3/M_3.19:label')"/>
+        <hint ref="jr:itext('/data/M_3/M_3.19:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_3/M_3.19:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_3/M_3.19:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_3/M_3.19:option2')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_3/M_3.19:option3')"/>
+          <value>98</value>
+        </item>
+      </select1>
+      <select1 ref="/data/M_3/M_3.20">
+        <label ref="jr:itext('/data/M_3/M_3.20:label')"/>
+        <hint ref="jr:itext('/data/M_3/M_3.20:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_3/M_3.20:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_3/M_3.20:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_3/M_3.20:option2')"/>
+          <value>98</value>
+        </item>
+      </select1>
+      <select ref="/data/M_3/M_3.20.1">
+        <label ref="jr:itext('/data/M_3/M_3.20.1:label')"/>
+        <hint ref="jr:itext('/data/M_3/M_3.20.1:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_3/M_3.20.1:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_3/M_3.20.1:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_3/M_3.20.1:option2')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_3/M_3.20.1:option3')"/>
+          <value>96</value>
+        </item>
+      </select>
+      <input ref="/data/M_3/M_3.20.1.1">
+        <label ref="jr:itext('/data/M_3/M_3.20.1.1:label')"/>
+        <hint ref="jr:itext('/data/M_3/M_3.20.1.1:hint')"/>
+      </input>
+    </group>
+    <group>
+      <label ref="jr:itext('/data/M_4:label')"/>
+      <input ref="/data/M_4/M_4.21">
+        <label ref="jr:itext('/data/M_4/M_4.21:label')"/>
+        <hint ref="jr:itext('/data/M_4/M_4.21:hint')"/>
+      </input>
+      <group>
+        <label ref="jr:itext('/data/M_4/M_4.1:label')"/>
+        <repeat nodeset="/data/M_4/M_4.1">
+          <input ref="/data/M_4/M_4.1/M_4.1.1">
+            <label ref="jr:itext('/data/M_4/M_4.1/M_4.1.1:label')"/>
+            <hint ref="jr:itext('/data/M_4/M_4.1/M_4.1.1:hint')"/>
+          </input>
+          <input ref="/data/M_4/M_4.1/M_4.1.2">
+            <label ref="jr:itext('/data/M_4/M_4.1/M_4.1.2:label')"/>
+            <hint ref="jr:itext('/data/M_4/M_4.1/M_4.1.2:hint')"/>
+          </input>
+          <input ref="/data/M_4/M_4.1/M_4.1.3">
+            <label ref="jr:itext('/data/M_4/M_4.1/M_4.1.3:label')"/>
+            <hint ref="jr:itext('/data/M_4/M_4.1/M_4.1.3:hint')"/>
+          </input>
+          <select1 ref="/data/M_4/M_4.1/M_4.1.4">
+            <label ref="jr:itext('/data/M_4/M_4.1/M_4.1.4:label')"/>
+            <item>
+              <label ref="jr:itext('/data/M_4/M_4.1/M_4.1.4:option0')"/>
+              <value>1</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/data/M_4/M_4.1/M_4.1.4:option1')"/>
+              <value>2</value>
+            </item>
+          </select1>
+        </repeat>
+      </group>
+      <select1 ref="/data/M_4/M_4.22">
+        <label ref="jr:itext('/data/M_4/M_4.22:label')"/>
+        <hint ref="jr:itext('/data/M_4/M_4.22:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.22:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.22:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.22:option2')"/>
+          <value>3</value>
+        </item>
+      </select1>
+      <select1 ref="/data/M_4/M_4.23">
+        <label ref="jr:itext('/data/M_4/M_4.23:label')"/>
+        <hint ref="jr:itext('/data/M_4/M_4.23:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.23:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.23:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.23:option2')"/>
+          <value>98</value>
+        </item>
+      </select1>
+      <upload ref="/data/M_4/Vaccine_Card_Photo" mediatype="image/*">
+        <label ref="jr:itext('/data/M_4/Vaccine_Card_Photo:label')"/>
+        <hint ref="jr:itext('/data/M_4/Vaccine_Card_Photo:hint')"/>
+      </upload>
+      <group appearance="field-list">
+        <label ref="jr:itext('/data/M_4/M_4.24:label')"/>
+        <input ref="/data/M_4/M_4.24/M_4.24.1">
+          <label ref="jr:itext('/data/M_4/M_4.24/M_4.24.1:label')"/>
+          <hint ref="jr:itext('/data/M_4/M_4.24/M_4.24.1:hint')"/>
+        </input>
+        <input ref="/data/M_4/M_4.24/M_4.24.2">
+          <label ref="jr:itext('/data/M_4/M_4.24/M_4.24.2:label')"/>
+          <hint ref="jr:itext('/data/M_4/M_4.24/M_4.24.2:hint')"/>
+        </input>
+        <input ref="/data/M_4/M_4.24/M_4.24.3">
+          <label ref="jr:itext('/data/M_4/M_4.24/M_4.24.3:label')"/>
+          <hint ref="jr:itext('/data/M_4/M_4.24/M_4.24.3:hint')"/>
+        </input>
+        <input ref="/data/M_4/M_4.24/M_4.24.4">
+          <label ref="jr:itext('/data/M_4/M_4.24/M_4.24.4:label')"/>
+          <hint ref="jr:itext('/data/M_4/M_4.24/M_4.24.4:hint')"/>
+        </input>
+        <input ref="/data/M_4/M_4.24/M_4.24.5">
+          <label ref="jr:itext('/data/M_4/M_4.24/M_4.24.5:label')"/>
+          <hint ref="jr:itext('/data/M_4/M_4.24/M_4.24.5:hint')"/>
+        </input>
+        <input ref="/data/M_4/M_4.24/M_4.24.6">
+          <label ref="jr:itext('/data/M_4/M_4.24/M_4.24.6:label')"/>
+          <hint ref="jr:itext('/data/M_4/M_4.24/M_4.24.6:hint')"/>
+        </input>
+        <input ref="/data/M_4/M_4.24/M_4.24.7">
+          <label ref="jr:itext('/data/M_4/M_4.24/M_4.24.7:label')"/>
+          <hint ref="jr:itext('/data/M_4/M_4.24/M_4.24.7:hint')"/>
+        </input>
+        <input ref="/data/M_4/M_4.24/M_4.24.8">
+          <label ref="jr:itext('/data/M_4/M_4.24/M_4.24.8:label')"/>
+          <hint ref="jr:itext('/data/M_4/M_4.24/M_4.24.8:hint')"/>
+        </input>
+        <input ref="/data/M_4/M_4.24/M_4.24.9">
+          <label ref="jr:itext('/data/M_4/M_4.24/M_4.24.9:label')"/>
+          <hint ref="jr:itext('/data/M_4/M_4.24/M_4.24.9:hint')"/>
+        </input>
+      </group>
+      <select1 ref="/data/M_4/M_4.25">
+        <label ref="jr:itext('/data/M_4/M_4.25:label')"/>
+        <hint ref="jr:itext('/data/M_4/M_4.25:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.25:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.25:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.25:option2')"/>
+          <value>98</value>
+        </item>
+      </select1>
+      <select1 ref="/data/M_4/M_4.26">
+        <label ref="jr:itext('/data/M_4/M_4.26:label')"/>
+        <hint ref="jr:itext('/data/M_4/M_4.26:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.26:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.26:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.26:option2')"/>
+          <value>98</value>
+        </item>
+      </select1>
+      <select1 ref="/data/M_4/M_4.27">
+        <label ref="jr:itext('/data/M_4/M_4.27:label')"/>
+        <hint ref="jr:itext('/data/M_4/M_4.27:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.27:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.27:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.27:option2')"/>
+          <value>98</value>
+        </item>
+      </select1>
+      <select1 ref="/data/M_4/M_4.28">
+        <label ref="jr:itext('/data/M_4/M_4.28:label')"/>
+        <hint ref="jr:itext('/data/M_4/M_4.28:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.28:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.28:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.28:option2')"/>
+          <value>98</value>
+        </item>
+      </select1>
+      <select1 ref="/data/M_4/M_4.28.1">
+        <label ref="jr:itext('/data/M_4/M_4.28.1:label')"/>
+        <hint ref="jr:itext('/data/M_4/M_4.28.1:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.28.1:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.28.1:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.28.1:option2')"/>
+          <value>98</value>
+        </item>
+      </select1>
+      <input ref="/data/M_4/M_4.28.2">
+        <label ref="jr:itext('/data/M_4/M_4.28.2:label')"/>
+        <hint ref="jr:itext('/data/M_4/M_4.28.2:hint')"/>
+      </input>
+      <select1 ref="/data/M_4/M_4.29">
+        <label ref="jr:itext('/data/M_4/M_4.29:label')"/>
+        <hint ref="jr:itext('/data/M_4/M_4.29:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.29:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.29:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.29:option2')"/>
+          <value>98</value>
+        </item>
+      </select1>
+      <input ref="/data/M_4/M_4.29.1">
+        <label ref="jr:itext('/data/M_4/M_4.29.1:label')"/>
+        <hint ref="jr:itext('/data/M_4/M_4.29.1:hint')"/>
+      </input>
+      <select1 ref="/data/M_4/M_4.30">
+        <label ref="jr:itext('/data/M_4/M_4.30:label')"/>
+        <hint ref="jr:itext('/data/M_4/M_4.30:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.30:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.30:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.30:option2')"/>
+          <value>98</value>
+        </item>
+      </select1>
+      <select1 ref="/data/M_4/M_4.31">
+        <label ref="jr:itext('/data/M_4/M_4.31:label')"/>
+        <hint ref="jr:itext('/data/M_4/M_4.31:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.31:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.31:option1')"/>
+          <value>2</value>
+        </item>
+      </select1>
+      <select ref="/data/M_4/M_4.31.1">
+        <label ref="jr:itext('/data/M_4/M_4.31.1:label')"/>
+        <hint ref="jr:itext('/data/M_4/M_4.31.1:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.31.1:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.31.1:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.31.1:option2')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.31.1:option3')"/>
+          <value>4</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.31.1:option4')"/>
+          <value>5</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.31.1:option5')"/>
+          <value>6</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.31.1:option6')"/>
+          <value>7</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.31.1:option7')"/>
+          <value>8</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.31.1:option8')"/>
+          <value>9</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_4/M_4.31.1:option9')"/>
+          <value>96</value>
+        </item>
+      </select>
+      <input ref="/data/M_4/M_4.31.1.1">
+        <label ref="jr:itext('/data/M_4/M_4.31.1.1:label')"/>
+        <hint ref="jr:itext('/data/M_4/M_4.31.1.1:hint')"/>
+      </input>
+    </group>
+    <group>
+      <label ref="jr:itext('/data/M_5:label')"/>
+      <select1 ref="/data/M_5/M_5.32">
+        <label ref="jr:itext('/data/M_5/M_5.32:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.32:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.32:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.32:option1')"/>
+          <value>98</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.32:option2')"/>
+          <value>96</value>
+        </item>
+      </select1>
+      <input ref="/data/M_5/M_5.32.0.1">
+        <label ref="jr:itext('/data/M_5/M_5.32.0.1:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.32.0.1:hint')"/>
+      </input>
+      <input ref="/data/M_5/M_5.32.0.2">
+        <label ref="jr:itext('/data/M_5/M_5.32.0.2:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.32.0.2:hint')"/>
+      </input>
+      <select1 ref="/data/M_5/M_5.32.1">
+        <label ref="jr:itext('/data/M_5/M_5.32.1:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.32.1:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.32.1:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.32.1:option1')"/>
+          <value>98</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.32.1:option2')"/>
+          <value>96</value>
+        </item>
+      </select1>
+      <input ref="/data/M_5/M_5.32.1.1">
+        <label ref="jr:itext('/data/M_5/M_5.32.1.1:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.32.1.1:hint')"/>
+      </input>
+      <input ref="/data/M_5/M_5.32.1.2">
+        <label ref="jr:itext('/data/M_5/M_5.32.1.2:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.32.1.2:hint')"/>
+      </input>
+      <select ref="/data/M_5/M_5.33">
+        <label ref="jr:itext('/data/M_5/M_5.33:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.33:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.33:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.33:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.33:option2')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.33:option3')"/>
+          <value>4</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.33:option4')"/>
+          <value>5</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.33:option5')"/>
+          <value>6</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.33:option6')"/>
+          <value>96</value>
+        </item>
+      </select>
+      <input ref="/data/M_5/M_5.33.0.1">
+        <label ref="jr:itext('/data/M_5/M_5.33.0.1:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.33.0.1:hint')"/>
+      </input>
+      <select ref="/data/M_5/M_5.33.1">
+        <label ref="jr:itext('/data/M_5/M_5.33.1:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.33.1:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.33.1:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.33.1:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.33.1:option2')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.33.1:option3')"/>
+          <value>4</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.33.1:option4')"/>
+          <value>5</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.33.1:option5')"/>
+          <value>6</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.33.1:option6')"/>
+          <value>96</value>
+        </item>
+      </select>
+      <input ref="/data/M_5/M_5.33.1.1">
+        <label ref="jr:itext('/data/M_5/M_5.33.1.1:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.33.1.1:hint')"/>
+      </input>
+      <select1 ref="/data/M_5/M_5.34">
+        <label ref="jr:itext('/data/M_5/M_5.34:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.34:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.34:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.34:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.34:option2')"/>
+          <value>98</value>
+        </item>
+      </select1>
+      <select1 ref="/data/M_5/M_5.34.1">
+        <label ref="jr:itext('/data/M_5/M_5.34.1:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.34.1:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.34.1:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.34.1:option1')"/>
+          <value>98</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.34.1:option2')"/>
+          <value>96</value>
+        </item>
+      </select1>
+      <input ref="/data/M_5/M_5.34.1.1">
+        <label ref="jr:itext('/data/M_5/M_5.34.1.1:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.34.1.1:hint')"/>
+      </input>
+      <input ref="/data/M_5/M_5.34.1.2">
+        <label ref="jr:itext('/data/M_5/M_5.34.1.2:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.34.1.2:hint')"/>
+      </input>
+      <select ref="/data/M_5/M_5.35">
+        <label ref="jr:itext('/data/M_5/M_5.35:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.35:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.35:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.35:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.35:option2')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.35:option3')"/>
+          <value>4</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.35:option4')"/>
+          <value>5</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.35:option5')"/>
+          <value>6</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.35:option6')"/>
+          <value>98</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.35:option7')"/>
+          <value>96</value>
+        </item>
+      </select>
+      <input ref="/data/M_5/M_5.35.0.1">
+        <label ref="jr:itext('/data/M_5/M_5.35.0.1:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.35.0.1:hint')"/>
+      </input>
+      <select ref="/data/M_5/M_5.36">
+        <label ref="jr:itext('/data/M_5/M_5.36:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.36:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.36:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.36:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.36:option2')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.36:option3')"/>
+          <value>4</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.36:option4')"/>
+          <value>5</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.36:option5')"/>
+          <value>6</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.36:option6')"/>
+          <value>7</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.36:option7')"/>
+          <value>8</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.36:option8')"/>
+          <value>98</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.36:option9')"/>
+          <value>96</value>
+        </item>
+      </select>
+      <input ref="/data/M_5/M_5.36.0.1">
+        <label ref="jr:itext('/data/M_5/M_5.36.0.1:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.36.0.1:hint')"/>
+      </input>
+      <select ref="/data/M_5/M_5.37">
+        <label ref="jr:itext('/data/M_5/M_5.37:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.37:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.37:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.37:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.37:option2')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.37:option3')"/>
+          <value>4</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.37:option4')"/>
+          <value>5</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.37:option5')"/>
+          <value>98</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.37:option6')"/>
+          <value>96</value>
+        </item>
+      </select>
+      <input ref="/data/M_5/M_5.37.0.1">
+        <label ref="jr:itext('/data/M_5/M_5.37.0.1:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.37.0.1:hint')"/>
+      </input>
+      <select1 ref="/data/M_5/M_5.38">
+        <label ref="jr:itext('/data/M_5/M_5.38:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.38:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.38:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.38:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.38:option2')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.38:option3')"/>
+          <value>4</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.38:option4')"/>
+          <value>5</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.38:option5')"/>
+          <value>96</value>
+        </item>
+      </select1>
+      <input ref="/data/M_5/M_5.38.0.1">
+        <label ref="jr:itext('/data/M_5/M_5.38.0.1:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.38.0.1:hint')"/>
+      </input>
+      <select1 ref="/data/M_5/M_5.38.1">
+        <label ref="jr:itext('/data/M_5/M_5.38.1:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.38.1:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.38.1:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.38.1:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.38.1:option2')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.38.1:option3')"/>
+          <value>4</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.38.1:option4')"/>
+          <value>5</value>
+        </item>
+      </select1>
+      <select ref="/data/M_5/M_5.39">
+        <label ref="jr:itext('/data/M_5/M_5.39:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.39:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.39:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.39:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.39:option2')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.39:option3')"/>
+          <value>4</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.39:option4')"/>
+          <value>5</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.39:option5')"/>
+          <value>6</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.39:option6')"/>
+          <value>96</value>
+        </item>
+      </select>
+      <input ref="/data/M_5/M_5.39.0.1">
+        <label ref="jr:itext('/data/M_5/M_5.39.0.1:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.39.0.1:hint')"/>
+      </input>
+      <select ref="/data/M_5/M_5.40">
+        <label ref="jr:itext('/data/M_5/M_5.40:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.40:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.40:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.40:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.40:option2')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.40:option3')"/>
+          <value>4</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.40:option4')"/>
+          <value>5</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.40:option5')"/>
+          <value>6</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.40:option6')"/>
+          <value>7</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.40:option7')"/>
+          <value>8</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.40:option8')"/>
+          <value>9</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.40:option9')"/>
+          <value>96</value>
+        </item>
+      </select>
+      <input ref="/data/M_5/M_5.40.0.1">
+        <label ref="jr:itext('/data/M_5/M_5.40.0.1:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.40.0.1:hint')"/>
+      </input>
+      <select ref="/data/M_5/M_5.41">
+        <label ref="jr:itext('/data/M_5/M_5.41:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.41:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.41:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.41:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.41:option2')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.41:option3')"/>
+          <value>4</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.41:option4')"/>
+          <value>5</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.41:option5')"/>
+          <value>6</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.41:option6')"/>
+          <value>98</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_5/M_5.41:option7')"/>
+          <value>96</value>
+        </item>
+      </select>
+      <input ref="/data/M_5/M_5.41.0.1">
+        <label ref="jr:itext('/data/M_5/M_5.41.0.1:label')"/>
+        <hint ref="jr:itext('/data/M_5/M_5.41.0.1:hint')"/>
+      </input>
+    </group>
+    <group>
+      <label ref="jr:itext('/data/M_6:label')"/>
+      <select1 ref="/data/M_6/M_6.42">
+        <label ref="jr:itext('/data/M_6/M_6.42:label')"/>
+        <hint ref="jr:itext('/data/M_6/M_6.42:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_6/M_6.42:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_6/M_6.42:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_6/M_6.42:option2')"/>
+          <value>98</value>
+        </item>
+      </select1>
+      <select ref="/data/M_6/M_6.42.1">
+        <label ref="jr:itext('/data/M_6/M_6.42.1:label')"/>
+        <hint ref="jr:itext('/data/M_6/M_6.42.1:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_6/M_6.42.1:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_6/M_6.42.1:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_6/M_6.42.1:option2')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_6/M_6.42.1:option3')"/>
+          <value>4</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_6/M_6.42.1:option4')"/>
+          <value>5</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_6/M_6.42.1:option5')"/>
+          <value>6</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_6/M_6.42.1:option6')"/>
+          <value>96</value>
+        </item>
+      </select>
+      <input ref="/data/M_6/M_6.42.1.1">
+        <label ref="jr:itext('/data/M_6/M_6.42.1.1:label')"/>
+        <hint ref="jr:itext('/data/M_6/M_6.42.1.1:hint')"/>
+      </input>
+      <select ref="/data/M_6/M_6.43">
+        <label ref="jr:itext('/data/M_6/M_6.43:label')"/>
+        <hint ref="jr:itext('/data/M_6/M_6.43:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_6/M_6.43:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_6/M_6.43:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_6/M_6.43:option2')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_6/M_6.43:option3')"/>
+          <value>4</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_6/M_6.43:option4')"/>
+          <value>5</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_6/M_6.43:option5')"/>
+          <value>6</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_6/M_6.43:option6')"/>
+          <value>7</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_6/M_6.43:option7')"/>
+          <value>96</value>
+        </item>
+      </select>
+      <input ref="/data/M_6/M_6.43.0.1">
+        <label ref="jr:itext('/data/M_6/M_6.43.0.1:label')"/>
+        <hint ref="jr:itext('/data/M_6/M_6.43.0.1:hint')"/>
+      </input>
+    </group>
+    <group>
+      <label ref="jr:itext('/data/M_7:label')"/>
+      <select1 ref="/data/M_7/M_7.44">
+        <label ref="jr:itext('/data/M_7/M_7.44:label')"/>
+        <hint ref="jr:itext('/data/M_7/M_7.44:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.44:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.44:option1')"/>
+          <value>98</value>
+        </item>
+      </select1>
+      <input ref="/data/M_7/M_7.44.1">
+        <label ref="jr:itext('/data/M_7/M_7.44.1:label')"/>
+        <hint ref="jr:itext('/data/M_7/M_7.44.1:hint')"/>
+      </input>
+      <select1 ref="/data/M_7/M_7.45">
+        <label ref="jr:itext('/data/M_7/M_7.45:label')"/>
+        <hint ref="jr:itext('/data/M_7/M_7.45:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.45:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.45:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.45:option2')"/>
+          <value>98</value>
+        </item>
+      </select1>
+      <select ref="/data/M_7/M_7.45.1">
+        <label ref="jr:itext('/data/M_7/M_7.45.1:label')"/>
+        <hint ref="jr:itext('/data/M_7/M_7.45.1:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.45.1:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.45.1:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.45.1:option2')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.45.1:option3')"/>
+          <value>4</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.45.1:option4')"/>
+          <value>5</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.45.1:option5')"/>
+          <value>6</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.45.1:option6')"/>
+          <value>7</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.45.1:option7')"/>
+          <value>8</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.45.1:option8')"/>
+          <value>98</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.45.1:option9')"/>
+          <value>96</value>
+        </item>
+      </select>
+      <input ref="/data/M_7/M_7.45.1.1">
+        <label ref="jr:itext('/data/M_7/M_7.45.1.1:label')"/>
+        <hint ref="jr:itext('/data/M_7/M_7.45.1.1:hint')"/>
+      </input>
+      <select1 ref="/data/M_7/M_7.46">
+        <label ref="jr:itext('/data/M_7/M_7.46:label')"/>
+        <hint ref="jr:itext('/data/M_7/M_7.46:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.46:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.46:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.46:option2')"/>
+          <value>98</value>
+        </item>
+      </select1>
+      <select ref="/data/M_7/M_7.46.1">
+        <label ref="jr:itext('/data/M_7/M_7.46.1:label')"/>
+        <hint ref="jr:itext('/data/M_7/M_7.46.1:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.46.1:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.46.1:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.46.1:option2')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.46.1:option3')"/>
+          <value>4</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.46.1:option4')"/>
+          <value>5</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.46.1:option5')"/>
+          <value>6</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.46.1:option6')"/>
+          <value>7</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.46.1:option7')"/>
+          <value>8</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.46.1:option8')"/>
+          <value>98</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_7/M_7.46.1:option9')"/>
+          <value>96</value>
+        </item>
+      </select>
+      <input ref="/data/M_7/M_7.46.1.1">
+        <label ref="jr:itext('/data/M_7/M_7.46.1.1:label')"/>
+        <hint ref="jr:itext('/data/M_7/M_7.46.1.1:hint')"/>
+      </input>
+    </group>
+    <group>
+      <label ref="jr:itext('/data/M_8:label')"/>
+      <select1 ref="/data/M_8/M_8.47">
+        <label ref="jr:itext('/data/M_8/M_8.47:label')"/>
+        <hint ref="jr:itext('/data/M_8/M_8.47:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_8/M_8.47:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_8/M_8.47:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_8/M_8.47:option2')"/>
+          <value>98</value>
+        </item>
+      </select1>
+      <select1 ref="/data/M_8/M_8.47.1">
+        <label ref="jr:itext('/data/M_8/M_8.47.1:label')"/>
+        <hint ref="jr:itext('/data/M_8/M_8.47.1:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_8/M_8.47.1:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_8/M_8.47.1:option1')"/>
+          <value>2</value>
+        </item>
+      </select1>
+      <select ref="/data/M_8/M_8.47.2">
+        <label ref="jr:itext('/data/M_8/M_8.47.2:label')"/>
+        <hint ref="jr:itext('/data/M_8/M_8.47.2:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_8/M_8.47.2:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_8/M_8.47.2:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_8/M_8.47.2:option2')"/>
+          <value>3</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_8/M_8.47.2:option3')"/>
+          <value>4</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_8/M_8.47.2:option4')"/>
+          <value>5</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_8/M_8.47.2:option5')"/>
+          <value>6</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_8/M_8.47.2:option6')"/>
+          <value>7</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_8/M_8.47.2:option7')"/>
+          <value>8</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_8/M_8.47.2:option8')"/>
+          <value>96</value>
+        </item>
+      </select>
+      <input ref="/data/M_8/M_8.47.2.1">
+        <label ref="jr:itext('/data/M_8/M_8.47.2.1:label')"/>
+        <hint ref="jr:itext('/data/M_8/M_8.47.2.1:hint')"/>
+      </input>
+      <select1 ref="/data/M_8/M_8.48">
+        <label ref="jr:itext('/data/M_8/M_8.48:label')"/>
+        <hint ref="jr:itext('/data/M_8/M_8.48:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_8/M_8.48:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_8/M_8.48:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_8/M_8.48:option2')"/>
+          <value>98</value>
+        </item>
+      </select1>
+      <select1 ref="/data/M_8/M_8.48.0.1">
+        <label ref="jr:itext('/data/M_8/M_8.48.0.1:label')"/>
+        <hint ref="jr:itext('/data/M_8/M_8.48.0.1:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/M_8/M_8.48.0.1:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/M_8/M_8.48.0.1:option1')"/>
+          <value>2</value>
+        </item>
+      </select1>
+    </group>
+    <input ref="/data/Conclusion">
+      <label ref="jr:itext('/data/Conclusion:label')"/>
+    </input>
+    <input ref="/data/Conclusion2">
+      <label ref="jr:itext('/data/Conclusion2:label')"/>
+    </input>
+  </h:body>
+</h:html>
